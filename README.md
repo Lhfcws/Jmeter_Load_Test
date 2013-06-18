@@ -39,10 +39,10 @@ refer to:
 
 refer to: 
 
-+ `QQ Test Plan 100.jtl`
-+ `QQ Test Plan 1000.jtl`
-+ `QQ Test Plan 3000.jtl`
-+ `QQ Test Plan 5000.jtl`
++ `QQ Test Plan 100.jmx`
++ `QQ Test Plan 1000.jmx`
++ `QQ Test Plan 3000.jmx`
++ `QQ Test Plan 5000.jmx`
 + `QQ Thread Group 100.jtl`
 + `QQ Thread Group 1000.jtl`
 + `QQ Thread Group 3000.jtl`
