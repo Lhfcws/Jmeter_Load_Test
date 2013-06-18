@@ -358,3 +358,10 @@
 <httpSample t="280" lt="280" ts="1371547414675" s="true" lb="[/c.gif]" rc="204" rm="No Content" tn="" dt="text" by="112"/>
 <httpSample t="282" lt="282" ts="1371547414676" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="310"/>
 <httpSample t="450" lt="314" ts="1371547414602" s="true" lb="[/getsharenum]" rc="200" rm="OK" tn="" dt="text" by="386"/>
+<httpSample t="817" lt="817" ts="1371548354872" s="true" lb="[/safebrowsing/downloads?client=navclient-auto-ffox&amp;appver=20.0&amp;pver=2.2&amp;wrkey=AKEgNivd-8KVx5VoTfs4ZVx1fB6kAc4o0SdwMYZD1gG0KaWzP5Z_oBfa3sI6KpC43Kod7Y5WqrXwNJqIbeV94aC3Sg4XOq4pYQ==]" rc="200" rm="OK" tn="" dt="text" by="1217"/>
+<httpSample t="106" lt="90" ts="1371548355710" s="true" lb="[/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAEY1o4HINqOByoFWscBAAEyBVbHAQAP]" rc="200" rm="OK" tn="" dt="text" by="4411"/>
+<httpSample t="46" lt="44" ts="1371548355841" s="true" lb="[/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAEY2Y4HIN6OByoFWscBAB8yBVnHAQAB]" rc="200" rm="OK" tn="" dt="text" by="1732"/>
+<httpSample t="46" lt="38" ts="1371548355904" s="true" lb="[/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAYw6IHIMiiBzIFQ9EBAD8]" rc="200" rm="OK" tn="" dt="text" by="3547"/>
+<httpSample t="42" lt="42" ts="1371548355974" s="true" lb="[/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAYx6IHINCiByoGSdEBAP8AMgVH0QEAAw]" rc="200" rm="OK" tn="" dt="text" by="1160"/>
+<httpSample t="46" lt="43" ts="1371548356035" s="true" lb="[/safebrowsing/rd/ChFnb29nLXBoaXNoLXNoYXZhchABGPHDCCDAxAgqDAkiAgD_________ADII8SECAP___wA]" rc="200" rm="OK" tn="" dt="text" by="1782"/>
+<httpSample t="59" lt="37" ts="1371548356097" s="true" lb="[/safebrowsing/rd/ChFnb29nLXBoaXNoLXNoYXZhchAAGN3aESDw2hEqBmltBAD_ADIGXW0EAP8P]" rc="200" rm="OK" tn="" dt="text" by="6794"/>
