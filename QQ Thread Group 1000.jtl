@@ -1,0 +1,995 @@
+1371376998064,6951,HTTP Request,200,OK,QQ Thread Group 1000 1-994,text,true,24784,3272
+1371376998703,6184,HTTP Request,200,OK,QQ Thread Group 1000 1-232,text,true,24757,5650
+1371376998753,1573,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-677,text,false,1934,0
+1371376998797,5397,HTTP Request,200,OK,QQ Thread Group 1000 1-822,text,true,24661,2796
+1371376998841,6129,HTTP Request,200,OK,QQ Thread Group 1000 1-566,text,true,25292,5300
+1371376995670,8652,HTTP Request,200,OK,QQ Thread Group 1000 1-92,text,true,25275,5847
+1371376999371,5007,HTTP Request,200,OK,QQ Thread Group 1000 1-272,text,true,24637,3588
+1371376999373,5017,HTTP Request,200,OK,QQ Thread Group 1000 1-265,text,true,24635,1652
+1371376996710,7774,HTTP Request,200,OK,QQ Thread Group 1000 1-643,text,true,24798,4883
+1371376998811,5856,HTTP Request,200,OK,QQ Thread Group 1000 1-885,text,true,24652,4139
+1371376998690,5466,HTTP Request,200,OK,QQ Thread Group 1000 1-897,text,true,24685,2171
+1371376999660,4160,HTTP Request,200,OK,QQ Thread Group 1000 1-77,text,true,24807,1057
+1371376998821,4894,HTTP Request,200,OK,QQ Thread Group 1000 1-951,text,true,24653,4069
+1371376998815,4731,HTTP Request,200,OK,QQ Thread Group 1000 1-915,text,true,24661,2778
+1371376998777,4544,HTTP Request,200,OK,QQ Thread Group 1000 1-804,text,true,24646,1881
+1371376998682,4594,HTTP Request,200,OK,QQ Thread Group 1000 1-170,text,true,24631,2911
+1371376999366,3571,HTTP Request,200,OK,QQ Thread Group 1000 1-53,text,true,25358,1310
+1371376999362,3562,HTTP Request,200,OK,QQ Thread Group 1000 1-471,text,true,24737,2751
+1371376998796,3928,HTTP Request,200,OK,QQ Thread Group 1000 1-819,text,true,24625,2597
+1371376996126,6226,HTTP Request,200,OK,QQ Thread Group 1000 1-219,text,true,24649,5113
+1371376999372,2770,HTTP Request,200,OK,QQ Thread Group 1000 1-96,text,true,24654,2023
+1371376998607,3340,HTTP Request,200,OK,QQ Thread Group 1000 1-197,text,true,24685,2634
+1371376999521,2079,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-298,text,false,1934,0
+1371376999355,2244,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-412,text,false,1934,0
+1371376998748,2837,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-652,text,false,1934,0
+1371376998820,2745,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-947,text,false,1934,0
+1371376999474,2123,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-464,text,false,1934,0
+1371376998846,2692,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-278,text,false,1934,0
+1371376998803,2778,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-850,text,false,1934,0
+1371376998814,2721,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-926,text,false,1934,0
+1371376998973,2448,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-510,text,false,1934,0
+1371376998700,2828,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-577,text,false,1934,0
+1371376999353,2244,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-457,text,false,1934,0
+1371376998826,2594,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-963,text,false,1934,0
+1371376998747,2659,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-855,text,false,1934,0
+1371376998803,2621,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-860,text,false,1934,0
+1371376998683,2733,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-176,text,false,1934,0
+1371376998800,2773,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-840,text,false,1934,0
+1371376998871,2542,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-44,text,false,1934,0
+1371376999358,2053,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-429,text,false,1934,0
+1371376998699,2889,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-620,text,false,1934,0
+1371376998688,2723,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-957,text,false,1934,0
+1371376998693,2730,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-206,text,false,1934,0
+1371376998823,2772,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-956,text,false,1934,0
+1371376998824,2771,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-973,text,false,1934,0
+1371376998747,2848,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-648,text,false,1934,0
+1371376998824,2588,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-986,text,false,1934,0
+1371376998695,2899,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-925,text,false,1934,0
+1371376998680,2914,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-706,text,false,1934,0
+1371376998609,2808,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-237,text,false,1934,0
+1371376995828,5601,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-143,text,false,1934,0
+1371376998707,2885,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-251,text,false,1934,0
+1371376998843,2576,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-572,text,false,1934,0
+1371376998708,2698,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-772,text,false,1934,0
+1371376998874,2532,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-45,text,false,1934,0
+1371376998697,2894,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-922,text,false,1934,0
+1371376998847,2559,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-66,text,false,1934,0
+1371376998842,2749,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-279,text,false,1934,0
+1371376998682,2908,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-720,text,false,1934,0
+1371376998873,2533,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-42,text,false,1934,0
+1371376998679,2727,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-181,text,false,1934,0
+1371376998685,2721,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-903,text,false,1934,0
+1371376998737,2670,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-150,text,false,1934,0
+1371376998808,2599,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-880,text,false,1934,0
+1371376998945,2462,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-535,text,false,1934,0
+1371376999250,2157,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-536,text,false,1934,0
+1371376999378,2029,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-448,text,false,1934,0
+1371376998925,2482,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-546,text,false,1934,0
+1371376998739,2668,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-158,text,false,1934,0
+1371376998689,2718,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-205,text,false,1934,0
+1371376999365,2042,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-490,text,false,1934,0
+1371376994790,6617,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-413,text,false,1934,0
+1371376998883,2524,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-33,text,false,1934,0
+1371376998610,2797,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-108,text,false,1934,0
+1371376998706,2702,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-240,text,false,1934,0
+1371376998706,2881,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-252,text,false,1934,0
+1371376998066,3342,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-962,text,false,1934,0
+1371376998748,2660,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-649,text,false,1934,0
+1371376999364,2044,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-498,text,false,1934,0
+1371376998697,2711,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-220,text,false,1934,0
+1371376998826,2582,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-965,text,false,1934,0
+1371376998805,2603,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-870,text,false,1934,0
+1371376997612,3796,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-847,text,false,1934,0
+1371376998684,2724,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-931,text,false,1934,0
+1371376998742,2666,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-141,text,false,1934,0
+1371376998689,2719,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-856,text,false,1934,0
+1371376998704,2705,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-230,text,false,1934,0
+1371376998815,2770,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-647,text,false,1934,0
+1371376998681,2728,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-175,text,false,1934,0
+1371376998684,2725,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-177,text,false,1934,0
+1371376998830,2754,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-627,text,false,1934,0
+1371376998812,2771,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-889,text,false,1934,0
+1371376998696,2713,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-194,text,false,1934,0
+1371376998846,2563,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-590,text,false,1934,0
+1371376998938,2471,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-537,text,false,1934,0
+1371376998611,2798,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-111,text,false,1934,0
+1371376999357,2052,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-428,text,false,1934,0
+1371376998831,2751,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-626,text,false,1934,0
+1371376998824,2585,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-980,text,false,1934,0
+1371376998822,2760,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-967,text,false,1934,0
+1371376998695,2714,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-200,text,false,1934,0
+1371376998701,2880,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-983,text,false,1934,0
+1371376998837,2744,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-605,text,false,1934,0
+1371376998705,2876,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-580,text,false,1934,0
+1371376998843,2738,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-285,text,false,1934,0
+1371376998809,2601,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-884,text,false,1934,0
+1371376998910,2500,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-557,text,false,1934,0
+1371376998839,2741,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-574,text,false,1934,0
+1371376996661,4749,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-622,text,false,1934,0
+1371376998796,2783,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-831,text,false,1934,0
+1371376999356,2054,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-414,text,false,1934,0
+1371376998797,2782,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-820,text,false,1934,0
+1371376999356,2054,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-424,text,false,1934,0
+1371376998612,2798,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-119,text,false,1934,0
+1371376998808,2770,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-881,text,false,1934,0
+1371376998940,2471,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-538,text,false,1934,0
+1371376998608,2803,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-211,text,false,1934,0
+1371376999359,2052,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-444,text,false,1934,0
+1371376998803,2774,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-858,text,false,1934,0
+1371376998898,2513,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-161,text,false,1934,0
+1371376998704,2873,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-735,text,false,1934,0
+1371376999364,2047,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-491,text,false,1934,0
+1371376998740,2671,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-157,text,false,1934,0
+1371376998809,2602,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-887,text,false,1934,0
+1371376999373,2038,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-263,text,false,1934,0
+1371376999372,2204,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-269,text,false,1934,0
+1371376998692,2720,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-901,text,false,1934,0
+1371376994697,6715,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-345,text,false,1934,0
+1371376994697,6715,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-350,text,false,1934,0
+1371376998825,2587,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-979,text,false,1934,0
+1371376998746,2666,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-120,text,false,1934,0
+1371376998828,2584,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-637,text,false,1934,0
+1371376999372,2201,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-267,text,false,1934,0
+1371376999354,2058,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-407,text,false,1934,0
+1371376998811,2761,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-883,text,false,1934,0
+1371376999361,2051,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-463,text,false,1934,0
+1371376998703,2869,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-891,text,false,1934,0
+1371376998680,2732,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-169,text,false,1934,0
+1371376998803,2768,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-844,text,false,1934,0
+1371376999374,2038,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-253,text,false,1934,0
+1371376999362,2050,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-473,text,false,1934,0
+1371376998829,2584,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-635,text,false,1934,0
+1371376998800,2613,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-836,text,false,1934,0
+1371376998806,2764,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-877,text,false,1934,0
+1371376998830,2740,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-631,text,false,1934,0
+1371376999373,2040,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-262,text,false,1934,0
+1371376994720,6693,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-361,text,false,1934,0
+1371376998679,2734,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-122,text,false,1934,0
+1371376998744,2669,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-126,text,false,1934,0
+1371376998746,2667,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-115,text,false,1934,0
+1371376998893,2520,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-867,text,false,1934,0
+1371376998687,2726,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-199,text,false,1934,0
+1371376999374,2039,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-256,text,false,1934,0
+1371376998822,2746,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-974,text,false,1934,0
+1371376998680,2734,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-172,text,false,1934,0
+1371376998946,2468,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-533,text,false,1934,0
+1371376999360,2054,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-467,text,false,1934,0
+1371376998921,2493,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-549,text,false,1934,0
+1371376998612,2802,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-121,text,false,1934,0
+1371376998812,2602,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-902,text,false,1934,0
+1371376998958,2456,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-525,text,false,1934,0
+1371376998698,2716,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-226,text,false,1934,0
+1371376998931,2483,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-547,text,false,1934,0
+1371376998845,2721,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-292,text,false,1934,0
+1371376999371,2043,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-270,text,false,1934,0
+1371376998821,2745,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-953,text,false,1934,0
+1371376998824,2590,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-987,text,false,1934,0
+1371376999374,2040,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-250,text,false,1934,0
+1371376998683,2882,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-972,text,false,1934,0
+1371376998822,2743,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-964,text,false,1934,0
+1371376998838,2577,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-587,text,false,1934,0
+1371376999361,2054,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-468,text,false,1934,0
+1371376999356,2059,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-418,text,false,1934,0
+1371376998740,2675,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-154,text,false,1934,0
+1371376998840,2724,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-585,text,false,1934,0
+1371376998610,2805,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-107,text,false,1934,0
+1371376998741,2674,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-144,text,false,1934,0
+1371376999008,2555,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-927,text,false,1934,0
+1371376998820,2743,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-944,text,false,1934,0
+1371376998818,2597,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-932,text,false,1934,0
+1371376998834,2728,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-604,text,false,1934,0
+1371376998800,2762,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-835,text,false,1934,0
+1371376998956,2460,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-526,text,false,1934,0
+1371376998963,2453,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-522,text,false,1934,0
+1371376999376,2040,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-243,text,false,1934,0
+1371376999380,2181,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-370,text,false,1934,0
+1371376999371,2045,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-88,text,false,1934,0
+1371376998836,2725,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-600,text,false,1934,0
+1371376999359,2057,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-441,text,false,1934,0
+1371376998685,2731,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-184,text,false,1934,0
+1371376999361,2055,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-454,text,false,1934,0
+1371376998802,2614,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-854,text,false,1934,0
+1371376998823,2593,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-959,text,false,1934,0
+1371376999381,2178,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-358,text,false,1934,0
+1371376998806,2753,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-875,text,false,1934,0
+1371376999360,2056,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-462,text,false,1934,0
+1371376998694,2723,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-845,text,false,1934,0
+1371376998757,2660,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-702,text,false,1934,0
+1371376999368,2049,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-87,text,false,1934,0
+1371376998891,2526,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-928,text,false,1934,0
+1371376995377,6040,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-31,text,false,1934,0
+1371376998948,2469,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-531,text,false,1934,0
+1371376998836,2581,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-594,text,false,1934,0
+1371376998610,2808,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-106,text,false,1934,0
+1371376995560,5858,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-64,text,false,1934,0
+1371376998825,2732,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-981,text,false,1934,0
+1371376999379,2178,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-378,text,false,1934,0
+1371376998744,2674,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-129,text,false,1934,0
+1371376999361,2057,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-460,text,false,1934,0
+1371376998681,2737,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-182,text,false,1934,0
+1371376998804,2752,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-863,text,false,1934,0
+1371376998825,2731,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-976,text,false,1934,0
+1371376998826,2730,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-960,text,false,1934,0
+1371376995830,5588,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-146,text,false,1934,0
+1371376998608,2810,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-165,text,false,1934,0
+1371376998976,2442,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-507,text,false,1934,0
+1371376998742,2677,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-130,text,false,1934,0
+1371376998737,2682,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-168,text,false,1934,0
+1371376998960,2459,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-524,text,false,1934,0
+1371376998886,2533,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-27,text,false,1934,0
+1371376999256,2163,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-398,text,false,1934,0
+1371376998745,2674,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-128,text,false,1934,0
+1371376998901,2518,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-562,text,false,1934,0
+1371376999368,2051,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-93,text,false,1934,0
+1371376999358,2061,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-436,text,false,1934,0
+1371376998846,2573,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-760,text,false,1934,0
+1371376998834,2719,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-592,text,false,1934,0
+1371376998920,2499,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-552,text,false,1934,0
+1371376998806,2746,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-874,text,false,1934,0
+1371376998688,2732,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-195,text,false,1934,0
+1371376994698,6722,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-346,text,false,1934,0
+1371376998935,2485,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-541,text,false,1934,0
+1371376998804,2748,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-849,text,false,1934,0
+1371376998737,2683,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-166,text,false,1934,0
+1371376998708,2843,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-254,text,false,1934,0
+1371376998694,2726,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-794,text,false,1934,0
+1371376999353,2067,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-451,text,false,1934,0
+1371376998943,2477,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-534,text,false,1934,0
+1371376998702,2718,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-234,text,false,1934,0
+1371376998908,2512,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-559,text,false,1934,0
+1371376998611,2809,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-112,text,false,1934,0
+1371376999377,2043,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-479,text,false,1934,0
+1371376998698,2723,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-642,text,false,1934,0
+1371376998881,2540,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-36,text,false,1934,0
+1371376998740,2681,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-152,text,false,1934,0
+1371376998818,2731,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-933,text,false,1934,0
+1371376998681,2868,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-697,text,false,1934,0
+1371376999364,2057,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-495,text,false,1934,0
+1371376998951,2470,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-530,text,false,1934,0
+1371376999363,2058,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-508,text,false,1934,0
+1371376997826,3595,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-937,text,false,1934,0
+1371376998809,2739,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-893,text,false,1934,0
+1371376998854,2567,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-56,text,false,1934,0
+1371376998797,2750,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-823,text,false,1934,0
+1371376998804,2617,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-853,text,false,1934,0
+1371376999357,2064,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-435,text,false,1934,0
+1371376998906,2516,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-563,text,false,1934,0
+1371376998863,2559,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-48,text,false,1934,0
+1371376998837,2709,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-603,text,false,1934,0
+1371376998798,2624,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-833,text,false,1934,0
+1371376999338,2084,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-388,text,false,1934,0
+1371376998832,2590,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-613,text,false,1934,0
+1371376998961,2461,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-523,text,false,1934,0
+1371376998846,2576,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-164,text,false,1934,0
+1371376999363,2060,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-511,text,false,1934,0
+1371376999381,2163,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-365,text,false,1934,0
+1371376998843,2701,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-568,text,false,1934,0
+1371376997502,3921,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-817,text,false,1934,0
+1371376999337,2207,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-502,text,false,1934,0
+1371376998817,2726,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-916,text,false,1934,0
+1371376998799,2744,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-827,text,false,1934,0
+1371376998833,2710,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-614,text,false,1934,0
+1371376999370,2053,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-282,text,false,1934,0
+1371376998842,2700,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-291,text,false,1934,0
+1371376998834,2708,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-601,text,false,1934,0
+1371376999252,2171,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-322,text,false,1934,0
+1371376998823,2600,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-984,text,false,1934,0
+1371376999372,2051,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-100,text,false,1934,0
+1371376999339,2084,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-389,text,false,1934,0
+1371376998971,2453,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-516,text,false,1934,0
+1371376996146,5278,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-225,text,false,1934,0
+1371376999253,2171,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-396,text,false,1934,0
+1371376998915,2509,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-556,text,false,1934,0
+1371376998923,2501,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-540,text,false,1934,0
+1371376998837,2703,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-602,text,false,1934,0
+1371376999371,2053,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-89,text,false,1934,0
+1371376998845,2695,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-287,text,false,1934,0
+1371376999370,2055,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-102,text,false,1934,0
+1371376998810,2729,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-888,text,false,1934,0
+1371376999356,2069,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-425,text,false,1934,0
+1371376998918,2507,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-555,text,false,1934,0
+1371376998839,2586,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-583,text,false,1934,0
+1371376998745,2680,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-123,text,false,1934,0
+1371376998683,2742,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-966,text,false,1934,0
+1371376998833,2592,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-612,text,false,1934,0
+1371376998681,2744,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-173,text,false,1934,0
+1371376995347,6079,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-691,text,false,1934,0
+1371376999353,2073,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-400,text,false,1934,0
+1371376999338,2088,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-383,text,false,1934,0
+1371376998688,2738,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-208,text,false,1934,0
+1371376998796,2630,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-824,text,false,1934,0
+1371376998825,2711,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-978,text,false,1934,0
+1371376999368,2058,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-289,text,false,1934,0
+1371376998745,2681,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-131,text,false,1934,0
+1371376998841,2585,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-575,text,false,1934,0
+1371376998828,2707,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-639,text,false,1934,0
+1371376998849,2577,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-65,text,false,1934,0
+1371376998681,2746,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-766,text,false,1934,0
+1371376998704,2723,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-236,text,false,1934,0
+1371376998853,2574,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-47,text,false,1934,0
+1371376998822,2605,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-977,text,false,1934,0
+1371376998805,2729,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-862,text,false,1934,0
+1371376998807,2620,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-865,text,false,1934,0
+1371376998850,2577,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-63,text,false,1934,0
+1371376998861,2566,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-50,text,false,1934,0
+1371376998744,2683,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-135,text,false,1934,0
+1371376998981,2447,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-509,text,false,1934,0
+1371376998823,2605,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-975,text,false,1934,0
+1371376999367,2061,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-91,text,false,1934,0
+1371376998743,2685,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-127,text,false,1934,0
+1371376998836,2696,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-596,text,false,1934,0
+1371376998691,2737,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-674,text,false,1934,0
+1371376994965,6463,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-399,text,false,1934,0
+1371376999357,2071,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-437,text,false,1934,0
+1371376998827,2601,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-958,text,false,1934,0
+1371376999372,2056,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-487,text,false,1934,0
+1371376998928,2501,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-543,text,false,1934,0
+1371376998690,2739,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-910,text,false,1934,0
+1371376998827,2588,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-985,text,false,1934,0
+1371376998746,2683,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-118,text,false,1934,0
+1371376998739,2690,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-163,text,false,1934,0
+1371376998879,2546,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-38,text,false,1934,0
+1371376996663,4766,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-619,text,false,1934,0
+1371376998689,2841,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-914,text,false,1934,0
+1371376998738,2691,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-151,text,false,1934,0
+1371376998697,2732,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-209,text,false,1934,0
+1371376998611,2797,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-110,text,false,1934,0
+1371376999354,2075,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-406,text,false,1934,0
+1371376998692,2738,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-193,text,false,1934,0
+1371376999355,2075,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-417,text,false,1934,0
+1371376998698,2732,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-221,text,false,1934,0
+1371376998816,2614,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-912,text,false,1934,0
+1371376998696,2832,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-264,text,false,1934,0
+1371376998742,2689,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-138,text,false,1934,0
+1371376994697,6698,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-347,text,false,1934,0
+1371376998748,2779,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-651,text,false,1934,0
+1371376999447,1984,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-894,text,false,1934,0
+1371376998705,2727,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-235,text,false,1934,0
+1371376999513,1919,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-301,text,false,1934,0
+1371376999391,2041,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-999,text,false,1934,0
+1371376998926,2449,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-542,text,false,1934,0
+1371376998807,2599,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-879,text,false,1934,0
+1371376998685,2837,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-183,text,false,1934,0
+1371376993279,8144,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-16,text,false,1934,0
+1371376999355,2050,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-410,text,false,1934,0
+1371376998693,2712,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-942,text,false,1934,0
+1371376998700,2705,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-227,text,false,1934,0
+1371376998840,2565,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-582,text,false,1934,0
+1371376998831,2573,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-623,text,false,1934,0
+1371376999358,2046,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-432,text,false,1934,0
+1371376998704,2700,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-231,text,false,1934,0
+1371376998813,2591,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-923,text,false,1934,0
+1371376998687,2716,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-186,text,false,1934,0
+1371376994897,6506,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-445,text,false,1934,0
+1371376998611,2792,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-109,text,false,1934,0
+1371376998693,2710,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-202,text,false,1934,0
+1371376998609,2793,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-103,text,false,1934,0
+1371376998819,2583,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-934,text,false,1934,0
+1371376998046,3356,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-991,text,false,1934,0
+1371376998818,2584,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-936,text,false,1934,0
+1371376998706,2695,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-656,text,false,1934,0
+1371376998609,2792,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-167,text,false,1934,0
+1371376998738,2663,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-162,text,false,1934,0
+1371376998685,2715,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-185,text,false,1934,0
+1371376999361,2039,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-458,text,false,1934,0
+1371376994698,6702,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-344,text,false,1934,0
+1371376998813,2587,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-908,text,false,1934,0
+1371376998812,2587,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-886,text,false,1934,0
+1371376998602,2797,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-148,text,false,1934,0
+1371376998837,2562,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-608,text,false,1934,0
+1371376998686,2712,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-116,text,false,1934,0
+1371376998705,2693,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-233,text,false,1934,0
+1371376998835,2563,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-607,text,false,1934,0
+1371376998701,2697,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-229,text,false,1934,0
+1371376998840,2557,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-576,text,false,1934,0
+1371376998680,2717,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-778,text,false,1934,0
+1371376999360,2037,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-459,text,false,1934,0
+1371376998694,2703,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-757,text,false,1934,0
+1371376998690,2706,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-210,text,false,1934,0
+1371376998605,2791,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-223,text,false,1934,0
+1371376998692,2704,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-896,text,false,1934,0
+1371376998707,2689,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-245,text,false,1934,0
+1371376998828,2567,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-638,text,false,1934,0
+1371376998814,2580,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-920,text,false,1934,0
+1371376998684,2710,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-969,text,false,1934,0
+1371376998700,2694,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-241,text,false,1934,0
+1371376999365,2028,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-493,text,false,1934,0
+1371376998702,2691,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-869,text,false,1934,0
+1371376998817,2575,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-913,text,false,1934,0
+1371376998801,2574,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-848,text,false,1934,0
+1371376998844,2527,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-275,text,false,1934,0
+1371376999367,2008,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-41,text,false,1934,0
+1371376998815,2559,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-918,text,false,1934,0
+1371376999353,2021,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-438,text,false,1934,0
+1371376998827,2546,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-971,text,false,1934,0
+1371376999360,2013,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-466,text,false,1934,0
+1371376998778,2594,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-811,text,false,1934,0
+1371376998703,2669,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-982,text,false,1934,0
+1371376998796,2576,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-814,text,false,1934,0
+1371376998741,2631,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-145,text,false,1934,0
+1371376999365,2006,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-492,text,false,1934,0
+1371376998743,2628,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-133,text,false,1934,0
+1371376998843,2527,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-288,text,false,1934,0
+1371376999354,2016,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-408,text,false,1934,0
+1371376998746,2623,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-117,text,false,1934,0
+1371376998612,2757,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-113,text,false,1934,0
+1371376998762,1818,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-732,text,false,1934,0
+1371376998691,1661,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-190,text,false,1934,0
+1371376998830,1533,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-634,text,false,1934,0
+1371376994719,5817,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-359,text,false,1934,0
+1371376999352,985,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-449,text,false,1934,0
+1371376998751,1701,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-659,text,false,1934,0
+1371376998745,1623,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-134,text,false,1934,0
+1371376999352,1002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-469,text,false,1934,0
+1371376999368,1090,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-283,text,false,1934,0
+1371376999360,1018,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-452,text,false,1934,0
+1371376998603,1795,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-191,text,false,1934,0
+1371376999380,1008,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-364,text,false,1934,0
+1371376999351,1100,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-308,text,false,1934,0
+1371376999356,1002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-423,text,false,1934,0
+1371376998691,1807,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-930,text,false,1934,0
+1371376998916,1562,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-553,text,false,1934,0
+1371376998754,1664,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-688,text,false,1934,0
+1371376998813,1675,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-892,text,false,1934,0
+1371376998697,1771,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-217,text,false,1934,0
+1371376999366,1072,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-49,text,false,1934,0
+1371376998751,1657,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-668,text,false,1934,0
+1371376999376,1052,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-480,text,false,1934,0
+1371376999363,1139,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-504,text,false,1934,0
+1371376998968,1534,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-520,text,false,1934,0
+1371376998805,1696,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-873,text,false,1934,0
+1371376998820,1681,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-946,text,false,1934,0
+1371376999358,1142,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-433,text,false,1934,0
+1371376999367,1132,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-54,text,false,1934,0
+1371376998857,1642,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-55,text,false,1934,0
+1371376995307,5191,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-554,text,false,1934,0
+1371376998683,1814,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-961,text,false,1934,0
+1371376998749,1748,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-666,text,false,1934,0
+1371376999362,1134,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-475,text,false,1934,0
+1371376998821,1675,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-954,text,false,1934,0
+1371376998685,1810,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-851,text,false,1934,0
+1371376999380,1114,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-376,text,false,1934,0
+1371376999359,1135,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-455,text,false,1934,0
+1371376999374,1119,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-260,text,false,1934,0
+1371376999375,1117,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-244,text,false,1934,0
+1371376998692,1800,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-212,text,false,1934,0
+1371376998859,1632,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-51,text,false,1934,0
+1371376998799,1692,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-837,text,false,1934,0
+1371376999378,1112,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-456,text,false,1934,0
+1371376999375,1114,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-248,text,false,1934,0
+1371376999377,1112,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-482,text,false,1934,0
+1371376999362,1126,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-485,text,false,1934,0
+1371376999370,1117,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-95,text,false,1934,0
+1371376998838,1649,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-589,text,false,1934,0
+1371376999353,1133,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-397,text,false,1934,0
+1371376998889,1597,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-29,text,false,1934,0
+1371376998970,1515,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-518,text,false,1934,0
+1371376994761,5723,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-405,text,false,1934,0
+1371376999382,1102,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-356,text,false,1934,0
+1371376999370,1113,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-274,text,false,1934,0
+1371376999370,1113,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-565,text,false,1934,0
+1371376998750,1732,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-661,text,false,1934,0
+1371376998903,1578,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-564,text,false,1934,0
+1371376999377,1104,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-476,text,false,1934,0
+1371376998985,1495,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-506,text,false,1934,0
+1371376998813,1666,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-907,text,false,1934,0
+1371376998801,1678,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-841,text,false,1934,0
+1371376999347,1131,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-316,text,false,1934,0
+1371376998835,1642,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-609,text,false,1934,0
+1371376999376,1101,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-484,text,false,1934,0
+1371376998975,1501,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-513,text,false,1934,0
+1371376998747,1729,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-640,text,false,1934,0
+1371376998833,1642,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-611,text,false,1934,0
+1371376998742,1732,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-147,text,false,1934,0
+1371376999353,1121,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-390,text,false,1934,0
+1371376998751,1722,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-676,text,false,1934,0
+1371376998687,1785,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-187,text,false,1934,0
+1371376998738,1734,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-153,text,false,1934,0
+1371376998835,1636,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-606,text,false,1934,0
+1371376998695,1776,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-207,text,false,1934,0
+1371376998933,1537,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-544,text,false,1934,0
+1371376998980,1489,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-515,text,false,1934,0
+1371376998747,1722,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-645,text,false,1934,0
+1371376998983,1485,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-517,text,false,1934,0
+1371376996127,4340,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-218,text,false,1934,0
+1371376999355,1112,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-420,text,false,1934,0
+1371376998833,1633,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-595,text,false,1934,0
+1371376998950,1516,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-528,text,false,1934,0
+1371376998816,1649,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-919,text,false,1934,0
+1371376999344,1120,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-317,text,false,1934,0
+1371376998740,1724,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-989,text,false,1934,0
+1371376999381,1082,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-357,text,false,1934,0
+1371376999377,1085,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-477,text,false,1934,0
+1371376998749,1713,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-655,text,false,1934,0
+1371376998913,1548,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-550,text,false,1934,0
+1371376998755,1706,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-693,text,false,1934,0
+1371376998876,1584,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-40,text,false,1934,0
+1371376998887,1572,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-32,text,false,1934,0
+1371376998686,1773,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-203,text,false,1934,0
+1371376998686,1772,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-828,text,false,1934,0
+1371376998752,1705,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-682,text,false,1934,0
+1371376998955,1501,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-532,text,false,1934,0
+1371376998694,1762,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-213,text,false,1934,0
+1371376998832,1623,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-632,text,false,1934,0
+1371376998756,1699,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-684,text,false,1934,0
+1371376998877,1577,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-39,text,false,1934,0
+1371376995561,4892,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-67,text,false,1934,0
+1371376999352,1101,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-340,text,false,1934,0
+1371376994728,5724,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-394,text,false,1934,0
+1371376999382,1069,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-354,text,false,1934,0
+1371376998683,1767,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-174,text,false,1934,0
+1371376998930,1519,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-545,text,false,1934,0
+1371376998744,1705,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-137,text,false,1934,0
+1371376998805,1643,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-864,text,false,1934,0
+1371376999378,1069,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-369,text,false,1934,0
+1371376998978,1469,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-512,text,false,1934,0
+1371376999369,1077,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-280,text,false,1934,0
+1371376998698,1748,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-970,text,false,1934,0
+1371376998812,1633,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-905,text,false,1934,0
+1371376998817,1627,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-935,text,false,1934,0
+1371376998810,1634,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-898,text,false,1934,0
+1371376994698,5745,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-349,text,false,1934,0
+1371376998699,1743,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-228,text,false,1934,0
+1371376998966,1476,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-521,text,false,1934,0
+1371376998820,1621,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-948,text,false,1934,0
+1371376998895,1546,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-816,text,false,1934,0
+1371376998752,1688,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-670,text,false,1934,0
+1371376998802,1637,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-857,text,false,1934,0
+1371376998697,1742,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-899,text,false,1934,0
+1371376999338,1100,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-392,text,false,1934,0
+1371376999382,1055,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-351,text,false,1934,0
+1371376998692,1745,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-196,text,false,1934,0
+1371376999375,1061,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-255,text,false,1934,0
+1371376999376,1060,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-483,text,false,1934,0
+1371376999382,1053,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-341,text,false,1934,0
+1371376998753,1681,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-678,text,false,1934,0
+1371376998835,1599,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-610,text,false,1934,0
+1371376998936,1497,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-539,text,false,1934,0
+1371376999369,1063,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-101,text,false,1934,0
+1371376998807,1625,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-868,text,false,1934,0
+1371376999366,1065,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-68,text,false,1934,0
+1371376998816,1615,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-909,text,false,1934,0
+1371376998748,1682,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-650,text,false,1934,0
+1371376998743,1686,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-124,text,false,1934,0
+1371376998821,1608,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-952,text,false,1934,0
+1371376998964,1464,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-501,text,false,1934,0
+1371376998842,1585,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-276,text,false,1934,0
+1371376998739,1688,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-159,text,false,1934,0
+1371376999337,1089,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-391,text,false,1934,0
+1371376999363,1063,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-505,text,false,1934,0
+1371376998817,1608,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-929,text,false,1934,0
+1371376998750,1674,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-660,text,false,1934,0
+1371376998688,1736,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-834,text,false,1934,0
+1371376998750,1673,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-658,text,false,1934,0
+1371376998755,1668,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-686,text,false,1934,0
+1371376998741,1681,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-261,text,false,1934,0
+1371376998752,1669,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-679,text,false,1934,0
+1371376999354,1067,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-404,text,false,1934,0
+1371376998831,1589,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-630,text,false,1934,0
+1371376998810,1609,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-882,text,false,1934,0
+1371376998699,1720,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-224,text,false,1934,0
+1371376998844,1574,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-284,text,false,1934,0
+1371376998739,1678,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-156,text,false,1934,0
+1371376994698,5719,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-352,text,false,1934,0
+1371376998750,1666,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-657,text,false,1934,0
+1371376998953,1463,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-529,text,false,1934,0
+1371376998748,1667,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-646,text,false,1934,0
+1371376999352,1062,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-386,text,false,1934,0
+1371376998752,1662,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-673,text,false,1934,0
+1371376998686,1727,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-852,text,false,1934,0
+1371376998743,1669,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-136,text,false,1934,0
+1371376998831,1581,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-633,text,false,1934,0
+1371376995827,4584,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-140,text,false,1934,0
+1371376999381,1030,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-377,text,false,1934,0
+1371376998807,1603,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-871,text,false,1934,0
+1371376998756,1653,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-690,text,false,1934,0
+1371376999377,1032,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-447,text,false,1934,0
+1371376998749,1659,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-664,text,false,1934,0
+1371376998832,1575,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-616,text,false,1934,0
+1371376999354,1053,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-402,text,false,1934,0
+1371376999361,1045,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-461,text,false,1934,0
+1371376998845,1561,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-271,text,false,1934,0
+1371376998754,1651,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-683,text,false,1934,0
+1371376998819,1585,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-941,text,false,1934,0
+1371376997849,2555,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-945,text,false,1934,0
+1371376998754,1649,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-669,text,false,1934,0
+1371376999379,1023,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-375,text,false,1934,0
+1371376999383,1019,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-332,text,false,1934,0
+1371376998810,1591,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-906,text,false,1934,0
+1371376998842,1559,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-281,text,false,1934,0
+1371376999366,1034,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-496,text,false,1934,0
+1371376998684,1715,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-171,text,false,1934,0
+1371376998819,1580,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-939,text,false,1934,0
+1371376998756,1642,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-687,text,false,1934,0
+1371376999362,1035,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-472,text,false,1934,0
+1371376998695,1702,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-663,text,false,1934,0
+1371376999383,1013,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-336,text,false,1934,0
+1371376998753,1642,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-671,text,false,1934,0
+1371376998754,1641,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-672,text,false,1934,0
+1371376999356,1038,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-422,text,false,1934,0
+1371376998828,2598,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-149,text,false,1934,0
+1371376998811,1583,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-895,text,false,1934,0
+1371376998604,1789,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-238,text,false,1934,0
+1371376998839,1553,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-579,text,false,1934,0
+1371376999359,1033,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-450,text,false,1934,0
+1371376998869,1522,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-46,text,false,1934,0
+1371376998841,1549,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-584,text,false,1934,0
+1371376998800,1590,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-842,text,false,1934,0
+1371376994719,5670,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-360,text,false,1934,0
+1371376997385,3004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-801,text,false,1934,0
+1371376999355,1033,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-416,text,false,1934,0
+1371376998687,1700,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-900,text,false,1934,0
+1371376998832,1555,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-617,text,false,1934,0
+1371376998829,1557,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-624,text,false,1934,0
+1371376998755,1631,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-689,text,false,1934,0
+1371376998801,1584,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-829,text,false,1934,0
+1371376999359,1026,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-442,text,false,1934,0
+1371376999357,1027,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-440,text,false,1934,0
+1371376995127,5257,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-500,text,false,1934,0
+1371376998753,1630,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-681,text,false,1934,0
+1371376999369,1013,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-97,text,false,1934,0
+1371376998690,1692,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-198,text,false,1934,0
+1371376999561,820,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-367,text,false,1934,0
+1371376998828,1553,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-644,text,false,1934,0
+1371376999367,1013,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-80,text,false,1934,0
+1371376998755,1625,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-692,text,false,1934,0
+1371376998802,1577,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-861,text,false,1934,0
+1371376999374,1005,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-259,text,false,1934,0
+1371376998840,1538,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-586,text,false,1934,0
+1371376998682,1695,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-180,text,false,1934,0
+1371376998856,1521,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-61,text,false,1934,0
+1371376999369,1007,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-567,text,false,1934,0
+1371376999379,997,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-371,text,false,1934,0
+1371376998814,1561,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-917,text,false,1934,0
+1371376998811,1564,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-904,text,false,1934,0
+1371376998808,1566,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-890,text,false,1934,0
+1371376998905,1468,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-560,text,false,1934,0
+1371376998687,1686,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-806,text,false,1934,0
+1371376998690,1682,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-189,text,false,1934,0
+1371376998608,1764,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-950,text,false,1934,0
+1371376998737,1634,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-249,text,false,1934,0
+1371376999375,996,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-246,text,false,1934,0
+1371376998814,1556,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-911,text,false,1934,0
+1371376998801,1569,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-838,text,false,1934,0
+1371376999365,1004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-497,text,false,1934,0
+1371376998809,1560,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-921,text,false,1934,0
+1371376998844,1524,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-569,text,false,1934,0
+1371376998749,1618,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-667,text,false,1934,0
+1371376999380,987,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-382,text,false,1934,0
+1371376999352,1014,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-329,text,false,1934,0
+1371376998866,1499,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-58,text,false,1934,0
+1371376998693,1672,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-704,text,false,1934,0
+1371376998751,1613,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-665,text,false,1934,0
+1371376999254,1110,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-385,text,false,1934,0
+1371376999357,1006,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-434,text,false,1934,0
+1371376999360,1002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-453,text,false,1934,0
+1371376998753,1609,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-675,text,false,1934,0
+1371376998689,1672,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-192,text,false,1934,0
+1371376998738,1623,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-160,text,false,1934,0
+1371376998701,1659,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-242,text,false,1934,0
+1371376998838,1522,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-588,text,false,1934,0
+1371376999364,995,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-499,text,false,1934,0
+1371376999357,1002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-431,text,false,1934,0
+1371376999355,1003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-411,text,false,1934,0
+1371376997828,2529,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-940,text,false,1934,0
+1371376998606,1751,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-132,text,false,1934,0
+1371376999376,980,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-481,text,false,1934,0
+1371376999367,989,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-57,text,false,1934,0
+1371376998694,1661,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-214,text,false,1934,0
+1371376997020,3335,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-724,text,false,1934,0
+1371376999379,975,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-374,text,false,1934,0
+1371376999364,989,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-488,text,false,1934,0
+1371376998741,1612,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-744,text,false,1934,0
+1371376998841,1487,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-581,text,false,1934,0
+1371376999354,982,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-403,text,false,1934,0
+1371376998795,1541,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-818,text,false,1934,0
+1371376998742,1593,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-139,text,false,1934,0
+1371376999368,967,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-277,text,false,1934,0
+1371376998804,1530,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-859,text,false,1934,0
+1371376998829,1504,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-636,text,false,1934,0
+1371376998845,1488,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-290,text,false,1934,0
+1371376998838,1494,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-591,text,false,1934,0
+1371376998816,1516,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-924,text,false,1934,0
+1371376998830,1501,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-621,text,false,1934,0
+1371376998836,1495,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-597,text,false,1934,0
+1371376998806,1524,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-872,text,false,1934,0
+1371376998867,1463,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-52,text,false,1934,0
+1371376996189,4140,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-216,text,false,1934,0
+1371376999358,971,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-427,text,false,1934,0
+1371376998799,1529,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-830,text,false,1934,0
+1371376998900,1427,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://t.qq.com refused,QQ Thread Group 1000 1-628,text,false,1934,0
+1371376999660,5802,HTTP Request,200,OK,QQ Thread Group 1000 1-768,text,true,24644,1132
+1371376996660,9253,HTTP Request,200,OK,QQ Thread Group 1000 1-629,text,true,24613,4886
+1371376998864,7131,HTTP Request,200,OK,QQ Thread Group 1000 1-60,text,true,25341,5702
+1371376999498,6790,HTTP Request,200,OK,QQ Thread Group 1000 1-548,text,true,24676,4134
+1371376999434,6900,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10900; actual size: 9990),QQ Thread Group 1000 1-300,text,false,1106,3539
+1371376999358,7110,HTTP Request,200,OK,QQ Thread Group 1000 1-439,text,true,24774,2574
+1371376998763,8207,HTTP Request,200,OK,QQ Thread Group 1000 1-731,text,true,24765,2137
+1371376998795,8178,HTTP Request,200,OK,QQ Thread Group 1000 1-813,text,true,25290,2597
+1371376998819,8340,HTTP Request,200,OK,QQ Thread Group 1000 1-938,text,true,24774,2737
+1371376998777,8704,HTTP Request,200,OK,QQ Thread Group 1000 1-805,text,true,24622,5750
+1371376998790,8943,HTTP Request,200,OK,QQ Thread Group 1000 1-74,text,true,25262,3251
+1371376999503,8485,HTTP Request,200,OK,QQ Thread Group 1000 1-99,text,true,24636,4551
+1371376999362,8707,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10524; actual size: 9990),QQ Thread Group 1000 1-474,text,false,1106,1957
+1371376998762,9333,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10911; actual size: 9990),QQ Thread Group 1000 1-721,text,false,1106,6297
+1371376999437,8673,HTTP Request,200,OK,QQ Thread Group 1000 1-12,text,true,24808,1622
+1371376999495,8703,HTTP Request,200,OK,QQ Thread Group 1000 1-7,text,true,24673,2503
+1371376999499,8751,HTTP Request,200,OK,QQ Thread Group 1000 1-24,text,true,24639,4771
+1371376999477,8778,HTTP Request,200,OK,QQ Thread Group 1000 1-299,text,true,24646,2194
+1371376999523,8755,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10907; actual size: 9990),QQ Thread Group 1000 1-314,text,false,1106,3391
+1371376999661,8639,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10879; actual size: 9990),QQ Thread Group 1000 1-104,text,false,1106,3268
+1371376999467,8903,HTTP Request,200,OK,QQ Thread Group 1000 1-21,text,true,24707,3902
+1371376998762,9613,HTTP Request,200,OK,QQ Thread Group 1000 1-727,text,true,24646,6302
+1371376998759,9621,HTTP Request,200,OK,QQ Thread Group 1000 1-712,text,true,24634,6309
+1371376999534,8864,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10891; actual size: 9990),QQ Thread Group 1000 1-330,text,false,1106,4867
+1371376998799,9630,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10914; actual size: 9990),QQ Thread Group 1000 1-839,text,false,1106,2794
+1371376998764,9680,HTTP Request,200,OK,QQ Thread Group 1000 1-734,text,true,24649,4984
+1371376999394,9058,HTTP Request,200,OK,QQ Thread Group 1000 1-312,text,true,24682,1491
+1371376999383,9146,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10911; actual size: 9990),QQ Thread Group 1000 1-328,text,false,1106,3628
+1371376999510,9116,HTTP Request,200,OK,QQ Thread Group 1000 1-294,text,true,24763,2525
+1371376999501,9215,HTTP Request,200,OK,QQ Thread Group 1000 1-726,text,true,24647,4764
+1371376998764,10245,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10922; actual size: 9990),QQ Thread Group 1000 1-752,text,false,1106,4975
+1371376999463,9558,HTTP Request,200,OK,QQ Thread Group 1000 1-19,text,true,25376,3916
+1371376999553,9470,HTTP Request,200,OK,QQ Thread Group 1000 1-373,text,true,24685,3873
+1371376999384,9694,HTTP Request,200,OK,QQ Thread Group 1000 1-323,text,true,24801,2142
+1371376999384,9752,HTTP Request,200,OK,QQ Thread Group 1000 1-326,text,true,24690,2539
+1371376998777,10582,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10915; actual size: 9990),QQ Thread Group 1000 1-807,text,false,1106,3961
+1371376999497,9990,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10886; actual size: 9990),QQ Thread Group 1000 1-339,text,false,1106,6088
+1371376999536,10042,HTTP Request,200,OK,QQ Thread Group 1000 1-327,text,true,24800,4533
+1371376999633,10008,HTTP Request,200,OK,QQ Thread Group 1000 1-268,text,true,24773,3927
+1371376999562,10142,HTTP Request,200,OK,QQ Thread Group 1000 1-384,text,true,25246,3912
+1371376999519,10276,HTTP Request,200,OK,QQ Thread Group 1000 1-15,text,true,25358,4004
+1371376998778,11111,HTTP Request,200,OK,QQ Thread Group 1000 1-808,text,true,24779,2078
+1371376999430,10483,HTTP Request,200,OK,QQ Thread Group 1000 1-14,text,true,24631,9863
+1371376998764,11249,HTTP Request,200,OK,QQ Thread Group 1000 1-750,text,true,24640,4989
+1371376999504,10543,HTTP Request,200,OK,QQ Thread Group 1000 1-295,text,true,24670,4177
+1371376999530,10545,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10923; actual size: 9990),QQ Thread Group 1000 1-320,text,false,1106,3237
+1371376999551,10538,HTTP Request,200,OK,QQ Thread Group 1000 1-363,text,true,24790,5498
+1371376999397,10729,HTTP Request,200,OK,QQ Thread Group 1000 1-309,text,true,24703,2578
+1371376998764,11446,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10933; actual size: 9990),QQ Thread Group 1000 1-741,text,false,1106,2950
+1371376999598,10622,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10853; actual size: 9990),QQ Thread Group 1000 1-593,text,false,1106,4101
+1371376999506,10718,HTTP Request,200,OK,QQ Thread Group 1000 1-10,text,true,25269,4179
+1371376999450,10848,HTTP Request,200,OK,QQ Thread Group 1000 1-6,text,true,24665,2185
+1371376998772,11528,HTTP Request,200,OK,QQ Thread Group 1000 1-781,text,true,24790,8027
+1371376999552,10753,HTTP Request,200,OK,QQ Thread Group 1000 1-348,text,true,24770,7152
+1371376999507,10856,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10561; actual size: 9990),QQ Thread Group 1000 1-561,text,false,1106,8940
+1371376999542,10863,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10886; actual size: 9990),QQ Thread Group 1000 1-372,text,false,1106,4801
+1371376999539,10871,HTTP Request,200,OK,QQ Thread Group 1000 1-379,text,true,25265,4152
+1371376997542,12943,HTTP Request,200,OK,QQ Thread Group 1000 1-832,text,true,25250,4408
+1371376999548,11071,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10907; actual size: 9990),QQ Thread Group 1000 1-34,text,false,1106,4857
+1371376998762,11905,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10901; actual size: 9990),QQ Thread Group 1000 1-728,text,false,1106,4958
+1371376999386,11322,HTTP Request,200,OK,QQ Thread Group 1000 1-313,text,true,25407,2198
+1371376998763,11995,HTTP Request,200,OK,QQ Thread Group 1000 1-736,text,true,24674,2436
+1371376999470,11310,HTTP Request,200,OK,QQ Thread Group 1000 1-23,text,true,25281,7471
+1371376999537,11398,HTTP Request,200,OK,QQ Thread Group 1000 1-366,text,true,24661,4812
+1371376999549,11415,HTTP Request,200,OK,QQ Thread Group 1000 1-337,text,true,24747,4161
+1371376999555,11440,HTTP Request,200,OK,QQ Thread Group 1000 1-331,text,true,24794,4174
+1371376998758,12390,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10880; actual size: 9990),QQ Thread Group 1000 1-708,text,false,1106,2962
+1371376999509,11645,HTTP Request,200,OK,QQ Thread Group 1000 1-1,text,true,24668,2521
+1371376999566,11677,HTTP Request,200,OK,QQ Thread Group 1000 1-465,text,true,24667,11216
+1371376999568,11690,HTTP Request,200,OK,QQ Thread Group 1000 1-401,text,true,24629,11246
+1371376999487,11783,HTTP Request,200,OK,QQ Thread Group 1000 1-988,text,true,24648,2527
+1371376999499,11885,HTTP Request,200,OK,QQ Thread Group 1000 1-1000,text,true,24670,8626
+1371376999550,11880,HTTP Request,200,OK,QQ Thread Group 1000 1-486,text,true,24778,3869
+1371376998763,12786,HTTP Request,200,OK,QQ Thread Group 1000 1-737,text,true,24668,8046
+1371376998762,12792,HTTP Request,200,OK,QQ Thread Group 1000 1-730,text,true,24649,8061
+1371376999601,11958,HTTP Request,200,OK,QQ Thread Group 1000 1-273,text,true,24655,4133
+1371376999424,12158,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10882; actual size: 9990),QQ Thread Group 1000 1-297,text,false,1106,3447
+1371376999516,12096,HTTP Request,200,OK,QQ Thread Group 1000 1-11,text,true,24696,5816
+1371376999407,12217,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10910; actual size: 9990),QQ Thread Group 1000 1-303,text,false,1106,3456
+1371376998827,12858,HTTP Request,200,OK,QQ Thread Group 1000 1-729,text,true,24650,8400
+1371376999661,12038,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10890; actual size: 9990),QQ Thread Group 1000 1-489,text,false,1106,3249
+1371376999572,12134,HTTP Request,200,OK,QQ Thread Group 1000 1-430,text,true,24696,11293
+1371376999559,12167,HTTP Request,200,OK,QQ Thread Group 1000 1-353,text,true,25235,8186
+1371376999583,12148,HTTP Request,200,OK,QQ Thread Group 1000 1-494,text,true,24640,8181
+1371376998761,12979,HTTP Request,200,OK,QQ Thread Group 1000 1-723,text,true,24640,8979
+1371376999373,12394,HTTP Request,200,OK,QQ Thread Group 1000 1-266,text,true,25373,1366
+1371376999411,12366,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10887; actual size: 9990),QQ Thread Group 1000 1-296,text,false,1106,3528
+1371376999580,12262,HTTP Request,200,OK,QQ Thread Group 1000 1-59,text,true,24673,8188
+1371376999586,12260,HTTP Request,200,OK,QQ Thread Group 1000 1-519,text,true,24807,9607
+1371376999414,12442,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10932; actual size: 9990),QQ Thread Group 1000 1-222,text,false,1106,1833
+1371376999565,12305,HTTP Request,200,OK,QQ Thread Group 1000 1-393,text,true,24792,9632
+1371376998772,13108,HTTP Request,200,OK,QQ Thread Group 1000 1-779,text,true,24767,10430
+1371376999581,12323,HTTP Request,200,OK,QQ Thread Group 1000 1-43,text,true,24632,9631
+1371376998763,13167,HTTP Request,200,OK,QQ Thread Group 1000 1-743,text,true,24757,6135
+1371376999528,12553,HTTP Request,200,OK,QQ Thread Group 1000 1-338,text,true,24696,7993
+1371376999579,12797,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10877; actual size: 9990),QQ Thread Group 1000 1-30,text,false,1106,10101
+1371376999656,12749,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10871; actual size: 9990),QQ Thread Group 1000 1-142,text,false,1106,10029
+1371376999585,12845,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10872; actual size: 9990),QQ Thread Group 1000 1-514,text,false,1106,8258
+1371376999417,13313,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10548; actual size: 9990),QQ Thread Group 1000 1-302,text,false,1106,1850
+1371376999563,13208,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10882; actual size: 9990),QQ Thread Group 1000 1-380,text,false,1106,9531
+1371376999566,13237,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10873; actual size: 9990),QQ Thread Group 1000 1-470,text,false,1106,9336
+1371376999588,13230,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10878; actual size: 9990),QQ Thread Group 1000 1-754,text,false,1106,9324
+1371376998761,14082,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10940; actual size: 9990),QQ Thread Group 1000 1-722,text,false,1106,10160
+1371376999531,13435,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10911; actual size: 9990),QQ Thread Group 1000 1-334,text,false,1106,3255
+1371376999403,13572,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10521; actual size: 9990),QQ Thread Group 1000 1-305,text,false,1106,3421
+1371376999561,13535,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10906; actual size: 9990),QQ Thread Group 1000 1-355,text,false,1106,9646
+1371376999600,13500,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10532; actual size: 9990),QQ Thread Group 1000 1-571,text,false,1106,3196
+1371376999597,13537,HTTP Request,200,OK,QQ Thread Group 1000 1-286,text,true,24660,1549
+1371376999440,13710,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10887; actual size: 9990),QQ Thread Group 1000 1-239,text,false,1106,3441
+1371376999420,13741,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10534; actual size: 9990),QQ Thread Group 1000 1-443,text,false,1106,3385
+1371376999596,13694,HTTP Request,200,OK,QQ Thread Group 1000 1-125,text,true,24792,1231
+1371376999577,14110,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10536; actual size: 9990),QQ Thread Group 1000 1-62,text,false,1106,9321
+1371376999539,14383,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10903; actual size: 9990),QQ Thread Group 1000 1-387,text,false,1106,8900
+1371376999443,14575,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10889; actual size: 9990),QQ Thread Group 1000 1-9,text,false,1106,4300
+1371376999547,14560,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10933; actual size: 9990),QQ Thread Group 1000 1-558,text,false,1106,8963
+1371376999582,14851,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10873; actual size: 9990),QQ Thread Group 1000 1-35,text,false,1106,9526
+1371376999579,14924,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10910; actual size: 9990),QQ Thread Group 1000 1-37,text,false,1106,9519
+1371376999557,14970,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10543; actual size: 9990),QQ Thread Group 1000 1-324,text,false,1106,9546
+1371376999589,16079,HTTP Request,200,OK,QQ Thread Group 1000 1-75,text,true,24751,15496
+1371376999590,16088,HTTP Request,200,OK,QQ Thread Group 1000 1-90,text,true,24782,15545
+1371376999593,16095,HTTP Request,200,OK,QQ Thread Group 1000 1-94,text,true,24660,15576
+1371376999594,16117,HTTP Request,200,OK,QQ Thread Group 1000 1-98,text,true,24642,15620
+1371376999564,16210,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10884; actual size: 9990),QQ Thread Group 1000 1-368,text,false,1106,9866
+1371376999483,16378,HTTP Request,200,OK,QQ Thread Group 1000 1-25,text,true,24754,9856
+1371376999608,16324,HTTP Request,200,OK,QQ Thread Group 1000 1-625,text,true,25257,16012
+1371376998761,17204,HTTP Request,200,OK,QQ Thread Group 1000 1-719,text,true,24679,16641
+1371376999603,16375,HTTP Request,200,OK,QQ Thread Group 1000 1-718,text,true,25233,15767
+1371376999533,16518,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10915; actual size: 9990),QQ Thread Group 1000 1-333,text,false,1106,9993
+1371376998759,17381,HTTP Request,200,OK,QQ Thread Group 1000 1-714,text,true,24785,17296
+1371376999599,16792,HTTP Request,200,OK,QQ Thread Group 1000 1-641,text,true,24780,1012
+1371376999589,16811,HTTP Request,200,OK,QQ Thread Group 1000 1-71,text,true,24681,15442
+1371376999606,16875,HTTP Request,200,OK,QQ Thread Group 1000 1-258,text,true,24784,16770
+1371376999603,17010,HTTP Request,200,OK,QQ Thread Group 1000 1-738,text,true,24751,16920
+1371376999602,17011,HTTP Request,200,OK,QQ Thread Group 1000 1-733,text,true,24663,15671
+1371376998759,17933,HTTP Request,200,OK,QQ Thread Group 1000 1-710,text,true,24681,17822
+1371376999600,17289,HTTP Request,200,OK,QQ Thread Group 1000 1-618,text,true,24801,15714
+1371376999610,17530,HTTP Request,200,OK,QQ Thread Group 1000 1-843,text,true,24820,16020
+1371376998759,18580,HTTP Request,200,OK,QQ Thread Group 1000 1-707,text,true,24830,16900
+1371376999611,17804,HTTP Request,200,OK,QQ Thread Group 1000 1-826,text,true,24615,15772
+1371376998760,18734,HTTP Request,200,OK,QQ Thread Group 1000 1-716,text,true,24643,18650
+1371376999480,18057,HTTP Request,200,OK,QQ Thread Group 1000 1-573,text,true,24804,9901
+1371376999427,18586,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10902; actual size: 9990),QQ Thread Group 1000 1-662,text,false,1106,18518
+1371376999614,19238,HTTP Request,200,OK,QQ Thread Group 1000 1-785,text,true,24798,15774
+1371376998761,20118,HTTP Request,200,OK,QQ Thread Group 1000 1-725,text,true,25224,16637
+1371376999609,19392,HTTP Request,200,OK,QQ Thread Group 1000 1-968,text,true,24674,18888
+1371376999615,19396,HTTP Request,200,OK,QQ Thread Group 1000 1-703,text,true,24692,18914
+1371376999616,19405,HTTP Request,200,OK,QQ Thread Group 1000 1-949,text,true,24643,18964
+1371376999619,19417,HTTP Request,200,OK,QQ Thread Group 1000 1-995,text,true,24654,18992
+1371376998760,20398,HTTP Request,200,OK,QQ Thread Group 1000 1-715,text,true,24754,20294
+1371376999617,19920,HTTP Request,200,OK,QQ Thread Group 1000 1-990,text,true,24622,15775
+1371376998760,21167,HTTP Request,200,OK,QQ Thread Group 1000 1-713,text,true,24779,21081
+1371376999576,21744,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10510; actual size: 9990),QQ Thread Group 1000 1-426,text,false,1106,21624
+1371376999584,21751,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10923; actual size: 9990),QQ Thread Group 1000 1-503,text,false,1106,21621
+1371376999569,21839,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10887; actual size: 9990),QQ Thread Group 1000 1-415,text,false,1106,21771
+1371376999574,21914,HTTP Request,200,OK,QQ Thread Group 1000 1-419,text,true,24779,11318
+1371376999596,22093,HTTP Request,200,OK,QQ Thread Group 1000 1-570,text,true,24621,15603
+1371376999607,22386,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10532; actual size: 9990),QQ Thread Group 1000 1-685,text,false,1106,22314
+1371376998760,23299,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10893; actual size: 9990),QQ Thread Group 1000 1-717,text,false,1106,23209
+1371376999604,27132,HTTP Request,200,OK,QQ Thread Group 1000 1-680,text,true,25390,18795
+1371376999620,27157,HTTP Request,200,OK,QQ Thread Group 1000 1-998,text,true,24694,19033
+1371376999605,27404,HTTP Request,200,OK,QQ Thread Group 1000 1-653,text,true,24794,18831
+1371376999622,27789,HTTP Request,200,OK,QQ Thread Group 1000 1-943,text,true,24646,19072
+1371376999623,29062,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10528; actual size: 9990),QQ Thread Group 1000 1-997,text,false,1106,28994
+1371376998765,30024,HTTP Request,200,OK,QQ Thread Group 1000 1-739,text,true,24670,19985
+1371376999674,29351,HTTP Request,200,OK,QQ Thread Group 1000 1-304,text,true,25346,19071
+1371376999648,32422,HTTP Request,200,OK,QQ Thread Group 1000 1-698,text,true,24818,31774
+1371376999641,32453,HTTP Request,200,OK,QQ Thread Group 1000 1-599,text,true,24677,31906
+1371376999629,32537,HTTP Request,200,OK,QQ Thread Group 1000 1-846,text,true,24763,31935
+1371376999624,32774,HTTP Request,200,OK,QQ Thread Group 1000 1-992,text,true,25355,32637
+1371376999636,32788,HTTP Request,200,OK,QQ Thread Group 1000 1-155,text,true,24664,32629
+1371376999644,33281,HTTP Request,200,OK,QQ Thread Group 1000 1-615,text,true,25248,31747
+1371376999634,35160,HTTP Request,200,OK,QQ Thread Group 1000 1-114,text,true,24669,34960
+1371376999643,35167,HTTP Request,200,OK,QQ Thread Group 1000 1-598,text,true,24634,34955
+1371376998756,36091,HTTP Request,200,OK,QQ Thread Group 1000 1-695,text,true,25279,35847
+1371376999652,35266,HTTP Request,200,OK,QQ Thread Group 1000 1-955,text,true,24690,31826
+1371376999635,35522,HTTP Request,200,OK,QQ Thread Group 1000 1-105,text,true,25228,35386
+1371376998775,36409,HTTP Request,200,OK,QQ Thread Group 1000 1-797,text,true,24617,36250
+1371376999642,35556,HTTP Request,200,OK,QQ Thread Group 1000 1-751,text,true,25279,31649
+1371376999630,35771,HTTP Request,200,OK,QQ Thread Group 1000 1-578,text,true,24690,35563
+1371376998758,36679,HTTP Request,200,OK,QQ Thread Group 1000 1-701,text,true,24613,36445
+1371376999646,36115,HTTP Request,200,OK,QQ Thread Group 1000 1-747,text,true,24653,32200
+1371376999649,36402,HTTP Request,200,OK,QQ Thread Group 1000 1-795,text,true,25260,36265
+1371376999630,36435,HTTP Request,200,OK,QQ Thread Group 1000 1-201,text,true,24629,31824
+1371376998757,37325,HTTP Request,200,OK,QQ Thread Group 1000 1-700,text,true,24666,37161
+1371376999651,37103,HTTP Request,200,OK,QQ Thread Group 1000 1-821,text,true,24675,31708
+1371376998757,38122,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10905; actual size: 9990),QQ Thread Group 1000 1-696,text,false,1106,38054
+1371376999632,37260,HTTP Request,200,OK,QQ Thread Group 1000 1-215,text,true,24631,31623
+1371376999643,37548,HTTP Request,200,OK,QQ Thread Group 1000 1-878,text,true,24779,31684
+1371376999625,37903,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10862; actual size: 9990),QQ Thread Group 1000 1-993,text,false,1106,37726
+1371376999638,37904,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10888; actual size: 9990),QQ Thread Group 1000 1-257,text,false,1106,37718
+1371376998758,38799,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10891; actual size: 9990),QQ Thread Group 1000 1-709,text,false,1106,38602
+1371376999645,37933,HTTP Request,200,OK,QQ Thread Group 1000 1-694,text,true,24677,31814
+1371376999636,38185,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10864; actual size: 9990),QQ Thread Group 1000 1-247,text,false,1106,38065
+1371376998758,39078,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10502; actual size: 9990),QQ Thread Group 1000 1-711,text,false,1106,38948
+1371376999640,38378,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10895; actual size: 9990),QQ Thread Group 1000 1-179,text,false,1106,38257
+1371376998757,39275,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10543; actual size: 9990),QQ Thread Group 1000 1-705,text,false,1106,39145
+1371376999631,38662,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10889; actual size: 9990),QQ Thread Group 1000 1-188,text,false,1106,38491
+1371376998757,39551,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10911; actual size: 9990),QQ Thread Group 1000 1-699,text,false,1106,39369
+1371376999650,38673,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10885; actual size: 9990),QQ Thread Group 1000 1-866,text,false,1106,38481
+1371376999639,39037,HTTP Request,200,OK,QQ Thread Group 1000 1-178,text,true,24768,35549
+1371376999676,128543,HTTP Request,200,OK,QQ Thread Group 1000 1-20,text,true,24623,127714
+1371376999674,129379,HTTP Request,200,OK,QQ Thread Group 1000 1-654,text,true,24686,127866
+1371376998795,130491,HTTP Request,200,OK,QQ Thread Group 1000 1-812,text,true,24815,128731
+1371376998794,130593,HTTP Request,200,OK,QQ Thread Group 1000 1-69,text,true,24614,128751
+1371376998789,130831,HTTP Request,200,OK,QQ Thread Group 1000 1-85,text,true,24759,128705
+1371376999676,130504,HTTP Request,200,OK,QQ Thread Group 1000 1-527,text,true,25262,127969
+1371376999675,130703,HTTP Request,200,OK,QQ Thread Group 1000 1-551,text,true,24657,127942
+1371376998775,131624,HTTP Request,200,OK,QQ Thread Group 1000 1-792,text,true,25258,129787
+1371376998776,132216,HTTP Request,200,OK,QQ Thread Group 1000 1-802,text,true,25348,129671
+1371376998776,132296,HTTP Request,200,OK,QQ Thread Group 1000 1-796,text,true,24691,129753
+1371376999676,131525,HTTP Request,200,OK,QQ Thread Group 1000 1-18,text,true,24647,128236
+1371376998770,132524,HTTP Request,200,OK,QQ Thread Group 1000 1-770,text,true,24766,129134
+1371376998778,132563,HTTP Request,200,OK,QQ Thread Group 1000 1-810,text,true,25379,129615
+1371376994697,136759,HTTP Request,200,OK,QQ Thread Group 1000 1-343,text,true,24680,133502
+1371376998788,132790,HTTP Request,200,OK,QQ Thread Group 1000 1-81,text,true,24778,128566
+1371376999677,132226,HTTP Request,200,OK,QQ Thread Group 1000 1-478,text,true,24648,128239
+1371376999671,132298,HTTP Request,200,OK,QQ Thread Group 1000 1-395,text,true,24813,128062
+1371376999670,132643,HTTP Request,200,OK,QQ Thread Group 1000 1-8,text,true,25285,128323
+1371376999678,132771,HTTP Request,200,OK,QQ Thread Group 1000 1-307,text,true,25244,127786
+1371376999655,132817,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10918; actual size: 9990),QQ Thread Group 1000 1-421,text,false,1106,128343
+1371376999518,133090,HTTP Request,200,OK,QQ Thread Group 1000 1-311,text,true,24765,127908
+1371376998774,134185,HTTP Request,200,OK,QQ Thread Group 1000 1-791,text,true,25359,130054
+1371376999677,133284,HTTP Request,200,OK,QQ Thread Group 1000 1-13,text,true,24788,128637
+1371376999675,133386,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10852; actual size: 9990),QQ Thread Group 1000 1-17,text,false,1106,129368
+1371376998771,134310,HTTP Request,200,OK,QQ Thread Group 1000 1-783,text,true,24747,130068
+1371376999666,133440,HTTP Request,200,OK,QQ Thread Group 1000 1-342,text,true,24649,129368
+1371376998770,134377,HTTP Request,200,OK,QQ Thread Group 1000 1-784,text,true,24768,131775
+1371376999538,133614,HTTP Request,200,OK,QQ Thread Group 1000 1-381,text,true,25419,128771
+1371376999677,133574,HTTP Request,200,OK,QQ Thread Group 1000 1-321,text,true,25398,128099
+1371376999671,133605,HTTP Request,200,OK,QQ Thread Group 1000 1-310,text,true,24793,128604
+1371376998772,134505,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10871; actual size: 9990),QQ Thread Group 1000 1-775,text,false,1106,130148
+1371376998781,134497,HTTP Request,200,OK,QQ Thread Group 1000 1-76,text,true,25351,130296
+1371376999678,133680,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10869; actual size: 9990),QQ Thread Group 1000 1-362,text,false,1106,129454
+1371376998775,134637,HTTP Request,200,OK,QQ Thread Group 1000 1-789,text,true,24647,130044
+1371376998773,134678,HTTP Request,200,OK,QQ Thread Group 1000 1-786,text,true,24675,130051
+1371376998679,134780,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10877; actual size: 9990),QQ Thread Group 1000 1-809,text,false,1106,130439
+1371376999670,133926,HTTP Request,200,OK,QQ Thread Group 1000 1-293,text,true,24659,128068
+1371376999669,133931,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10893; actual size: 9990),QQ Thread Group 1000 1-446,text,false,1106,129430
+1371376998766,134868,HTTP Request,200,OK,QQ Thread Group 1000 1-740,text,true,24680,131802
+1371376998793,134849,HTTP Request,200,OK,QQ Thread Group 1000 1-72,text,true,24776,129400
+1371376998780,134935,HTTP Request,200,OK,QQ Thread Group 1000 1-86,text,true,24682,130639
+1371376999675,134080,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10918; actual size: 9990),QQ Thread Group 1000 1-2,text,false,1106,129298
+1371376998776,135017,HTTP Request,200,OK,QQ Thread Group 1000 1-799,text,true,25340,132008
+1371376998773,135053,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10850; actual size: 9990),QQ Thread Group 1000 1-782,text,false,1106,131170
+1371376999621,134229,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10910; actual size: 9990),QQ Thread Group 1000 1-996,text,false,1106,129581
+1371376998778,135105,HTTP Request,200,OK,QQ Thread Group 1000 1-815,text,true,24656,129587
+1371376998783,135103,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10876; actual size: 9990),QQ Thread Group 1000 1-83,text,false,1106,131333
+1371376998767,135173,HTTP Request,200,OK,QQ Thread Group 1000 1-758,text,true,24773,132098
+1371376998767,135179,HTTP Request,200,OK,QQ Thread Group 1000 1-756,text,true,24669,131995
+1371376998769,135210,HTTP Request,200,OK,QQ Thread Group 1000 1-769,text,true,25213,129835
+1371376998766,135233,HTTP Request,200,OK,QQ Thread Group 1000 1-746,text,true,24815,132356
+1371376998771,135243,HTTP Request,200,OK,QQ Thread Group 1000 1-787,text,true,24646,132433
+1371376999675,134352,HTTP Request,200,OK,QQ Thread Group 1000 1-22,text,true,24648,130245
+1371376998768,135269,HTTP Request,200,OK,QQ Thread Group 1000 1-759,text,true,24798,130167
+1371376998770,135316,HTTP Request,200,OK,QQ Thread Group 1000 1-773,text,true,24693,131530
+1371376999664,134455,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10886; actual size: 9990),QQ Thread Group 1000 1-409,text,false,1106,128630
+1371376998792,135401,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10885; actual size: 9990),QQ Thread Group 1000 1-70,text,false,1106,130330
+1371376998771,135458,HTTP Request,200,OK,QQ Thread Group 1000 1-777,text,true,25241,131769
+1371376999654,134615,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10906; actual size: 9990),QQ Thread Group 1000 1-325,text,false,1106,128674
+1371376998769,135516,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10912; actual size: 9990),QQ Thread Group 1000 1-761,text,false,1106,131193
+1371376999678,134639,HTTP Request,200,OK,QQ Thread Group 1000 1-318,text,true,24799,128093
+1371376998782,135559,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10873; actual size: 9990),QQ Thread Group 1000 1-82,text,false,1106,130627
+1371376998769,135587,HTTP Request,200,OK,QQ Thread Group 1000 1-771,text,true,24655,133699
+1371376998772,135702,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10883; actual size: 9990),QQ Thread Group 1000 1-780,text,false,1106,130071
+1371376998771,135721,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10911; actual size: 9990),QQ Thread Group 1000 1-774,text,false,1106,130077
+1371376998768,135788,HTTP Request,200,OK,QQ Thread Group 1000 1-764,text,true,25384,132698
+1371376998773,135805,HTTP Request,200,OK,QQ Thread Group 1000 1-876,text,true,25251,129822
+1371376999672,134962,HTTP Request,200,OK,QQ Thread Group 1000 1-315,text,true,24762,128002
+1371376998787,135879,HTTP Request,200,OK,QQ Thread Group 1000 1-84,text,true,24656,129963
+1371376998766,135937,HTTP Request,200,OK,QQ Thread Group 1000 1-745,text,true,25255,132876
+1371376998768,135982,HTTP Request,200,OK,QQ Thread Group 1000 1-763,text,true,24687,131791
+1371376998776,136090,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10899; actual size: 9990),QQ Thread Group 1000 1-798,text,false,1106,130315
+1371376998774,136111,HTTP Request,200,OK,QQ Thread Group 1000 1-793,text,true,24641,132484
+1371376998786,136172,HTTP Request,200,OK,QQ Thread Group 1000 1-78,text,true,24654,129950
+1371376998765,136276,HTTP Request,200,OK,QQ Thread Group 1000 1-749,text,true,24638,131813
+1371376999653,135492,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10904; actual size: 9990),QQ Thread Group 1000 1-319,text,false,1106,128349
+1371376998765,136392,HTTP Request,200,OK,QQ Thread Group 1000 1-753,text,true,24684,133095
+1371376998767,136474,HTTP Request,200,OK,QQ Thread Group 1000 1-765,text,true,24669,132094
+1371376998769,136576,HTTP Request,200,OK,QQ Thread Group 1000 1-767,text,true,25297,130083
+1371376999682,135965,HTTP Request,200,OK,QQ Thread Group 1000 1-28,text,true,25231,131202
+1371376999682,136250,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10883; actual size: 9990),QQ Thread Group 1000 1-26,text,false,1106,132031
+1371376998784,137545,HTTP Request,200,OK,QQ Thread Group 1000 1-79,text,true,24654,131259
+1371376998791,137707,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10539; actual size: 9990),QQ Thread Group 1000 1-73,text,false,1106,137635
+1371376998768,137735,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10902; actual size: 9990),QQ Thread Group 1000 1-762,text,false,1106,133068
+1371376998774,138025,HTTP Request,200,OK,QQ Thread Group 1000 1-788,text,true,25378,130059
+1371376999679,138760,HTTP Request,200,OK,QQ Thread Group 1000 1-204,text,true,25279,129622
+1371376998774,140118,HTTP Request,200,OK,QQ Thread Group 1000 1-790,text,true,25378,129816
+1371376998765,140182,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10872; actual size: 9990),QQ Thread Group 1000 1-742,text,false,1106,132728
+1371376998767,140490,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10917; actual size: 9990),QQ Thread Group 1000 1-748,text,false,1106,132765
+1371376998773,141040,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,Non HTTP response message: Truncated chunk ( expected size: 10881; actual size: 9990),QQ Thread Group 1000 1-776,text,false,1106,131116
+1371376998775,142386,HTTP Request,200,OK,QQ Thread Group 1000 1-800,text,true,25346,129714
+1371376999460,308396,HTTP Request,200,OK,QQ Thread Group 1000 1-5,text,true,24666,308167
+1371376999401,308460,HTTP Request,200,OK,QQ Thread Group 1000 1-306,text,true,24772,308263
+1371376998688,309182,HTTP Request,200,OK,QQ Thread Group 1000 1-825,text,true,24619,309012

@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<httpSample t="1246" lt="1246" ts="1371538429322" s="true" lb="[/12.10/Google/]" rc="304" rm="Not Modified" tn="" dt="text" by="272"/>
+<httpSample t="164" lt="164" ts="1371538431077" s="true" lb="[/js5/s?sid=tDMjgAXfvUYGcZJOxMffebNlJiIOYWUX&amp;func=global:sequential]" rc="200" rm="OK" tn="" dt="text" by="778"/>
+<httpSample t="136" lt="102" ts="1371538431364" s="true" lb="[/p/js5/lib/sound/message.wav]" rc="206" rm="Partial Content" tn="" dt="text" by="11002"/>
+<httpSample t="63" lt="49" ts="1371538433448" s="true" lb="[/]" rc="200" rm="OK" tn="" dt="text" by="7984"/>
+<httpSample t="61" lt="61" ts="1371538433817" s="true" lb="[/cdn_djl.js]" rc="304" rm="Not Modified" tn="" dt="text" by="237"/>
+<httpSample t="159" lt="154" ts="1371538433817" s="true" lb="[/cgi-bin/login]" rc="200" rm="OK" tn="" dt="text" by="5271"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<httpSample t="965" lt="965" ts="1371538434106" s="true" lb="[/cgi-bin/js_report]" rc="200" rm="OK" tn="" dt="text" by="162"/>
+<httpSample t="114" lt="113" ts="1371538435098" s="true" lb="[/check]" rc="200" rm="OK" tn="" dt="text" by="437"/>
+<httpSample t="18" lt="18" ts="1371538435593" s="true" lb="[/cgi-bin/ver]" rc="200" rm="OK" tn="" dt="text" by="263"/>
+<httpSample t="344" lt="340" ts="1371538438902" s="true" lb="[/cdn_dianjiliu.js]" rc="200" rm="OK" tn="" dt="text" by="1940"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<httpSample t="5506" lt="5506" ts="1371538434835" s="true" lb="[/collect]" rc="200" rm="OK" tn="" dt="" by="68"/>
+<httpSample t="5514" lt="5514" ts="1371538434846" s="true" lb="[/pingd]" rc="200" rm="OK" tn="" dt="" by="62"/>
+<httpSample t="6292" lt="5462" ts="1371538434847" s="true" lb="[/www/mb/css/style_121224a.css]" rc="200" rm="OK" tn="" dt="text" by="29687"/>
+<httpSample t="98" lt="98" ts="1371538441177" s="true" lb="[/collect]" rc="200" rm="OK" tn="" dt="" by="68"/>
+<httpSample t="246" lt="246" ts="1371538441176" s="true" lb="[/lview]" rc="200" rm="OK" tn="" dt="text" by="746"/>
+<httpSample t="124" lt="124" ts="1371538443451" s="true" lb="[/p]" rc="200" rm="OK" tn="" dt="text" by="201"/>
+<httpSample t="86" lt="81" ts="1371538445581" s="true" lb="[/login]" rc="200" rm="OK" tn="" dt="text" by="1090"/>
+<httpSample t="243" lt="243" ts="1371538445706" s="true" lb="[/]" rc="302" rm="Found" tn="" dt="text" by="340"/>
+<httpSample t="338" lt="262" ts="1371538445977" s="true" lb="[/lhfcws]" rc="200" rm="OK" tn="" dt="text" by="26268"/>
+<httpSample t="576" lt="356" ts="1371538446843" s="true" lb="[/asyn/mysidebar_n_new.php]" rc="200" rm="OK" tn="" dt="text" by="12076"/>
+<httpSample t="199" lt="199" ts="1371538447297" s="true" lb="[/newMsgCount.php]" rc="200" rm="OK" tn="" dt="text" by="465"/>
+<httpSample t="148" lt="148" ts="1371538447377" s="true" lb="[/lview]" rc="200" rm="OK" tn="" dt="text" by="1890"/>
+<httpSample t="171" lt="171" ts="1371538447377" s="true" lb="[/asyn/userCard.php]" rc="200" rm="OK" tn="" dt="text" by="849"/>
+<httpSample t="193" lt="193" ts="1371538447369" s="true" lb="[/asyn/userCard.php]" rc="200" rm="OK" tn="" dt="text" by="878"/>
+<httpSample t="191" lt="191" ts="1371538447374" s="true" lb="[/asyn/userCard.php]" rc="200" rm="OK" tn="" dt="text" by="799"/>
+<httpSample t="114" lt="114" ts="1371538447465" s="true" lb="[/e/quan_Account_get]" rc="200" rm="OK" tn="" dt="text" by="732"/>
+<httpSample t="46" lt="46" ts="1371538447858" s="true" lb="[/asyn/userRelation.php]" rc="200" rm="OK" tn="" dt="text" by="354"/>
+<httpSample t="53" lt="53" ts="1371538447861" s="true" lb="[/asyn/userRelation.php]" rc="200" rm="OK" tn="" dt="text" by="352"/>
+<httpSample t="60" lt="60" ts="1371538447862" s="true" lb="[/asyn/userRelation.php]" rc="200" rm="OK" tn="" dt="text" by="354"/>
+<httpSample t="17" lt="17" ts="1371538447964" s="true" lb="[/collect]" rc="200" rm="OK" tn="" dt="" by="68"/>
+<httpSample t="28" lt="28" ts="1371538447964" s="true" lb="[/pingd]" rc="200" rm="OK" tn="" dt="" by="62"/>
+<httpSample t="894" lt="889" ts="1371538447702" s="true" lb="[/mbloghead/7ea6686529545cd81070/50]" rc="200" rm="OK" tn="" dt="bin" by="1862"/>
+<httpSample t="889" lt="884" ts="1371538447714" s="true" lb="[/mbloghead/5f15b8b9634ac355e768/50]" rc="200" rm="OK" tn="" dt="bin" by="2212"/>
+<httpSample t="862" lt="858" ts="1371538447749" s="true" lb="[/mbloghead/3e650ae8d2a3320fb92c/50]" rc="200" rm="OK" tn="" dt="bin" by="2295"/>
+<httpSample t="874" lt="869" ts="1371538447745" s="true" lb="[/mbloghead/992b2cbea7c73c800818/50]" rc="200" rm="OK" tn="" dt="bin" by="2024"/>
+<httpSample t="870" lt="864" ts="1371538447756" s="true" lb="[/mbloghead/5872ff03d77409878096/50]" rc="200" rm="OK" tn="" dt="bin" by="2776"/>
+<httpSample t="895" lt="891" ts="1371538447739" s="true" lb="[/mbloghead/69299a86eab569e4cc2e/50]" rc="200" rm="OK" tn="" dt="bin" by="2647"/>
+<httpSample t="897" lt="892" ts="1371538447747" s="true" lb="[/mbloghead/a7f5fe00d9e92b455f08/50]" rc="200" rm="OK" tn="" dt="bin" by="1855"/>
+<httpSample t="890" lt="886" ts="1371538447760" s="true" lb="[/mbloghead/b5c942604f57bbeb35c6/50]" rc="200" rm="OK" tn="" dt="bin" by="2721"/>
+<httpSample t="897" lt="892" ts="1371538447762" s="true" lb="[/mbloghead/a0c5c1f4ce15cec3b294/50]" rc="200" rm="OK" tn="" dt="bin" by="1957"/>
+<httpSample t="1057" lt="1057" ts="1371538447766" s="true" lb="[/collect]" rc="200" rm="OK" tn="" dt="bin" by="147"/>
+<httpSample t="971" lt="971" ts="1371538447858" s="true" lb="[/collect]" rc="200" rm="OK" tn="" dt="bin" by="147"/>
+<httpSample t="167" lt="154" ts="1371538449199" s="true" lb="[/proxy.html]" rc="200" rm="OK" tn="" dt="text" by="5030"/>
+<httpSample t="73" lt="73" ts="1371538449590" s="true" lb="[/p]" rc="200" rm="OK" tn="" dt="text" by="201"/>
+<httpSample t="101" lt="97" ts="1371538450307" s="true" lb="[/lview]" rc="200" rm="OK" tn="" dt="text" by="1603"/>
+<httpSample t="172" lt="172" ts="1371538450308" s="true" lb="[/lview]" rc="200" rm="OK" tn="" dt="text" by="669"/>
+<httpSample t="942" lt="942" ts="1371538449859" s="true" lb="[/web/]" rc="200" rm="OK" tn="" dt="text" by="201"/>
+<httpSample t="205" lt="205" ts="1371538450607" s="true" lb="[/s]" rc="200" rm="OK" tn="" dt="text" by="1848"/>
+<httpSample t="116" lt="79" ts="1371538450983" s="true" lb="[/n1/g10/M00/0A/1A/rBEQWFFBlzcIAAAAAAEgpeiJGawAACHTAOPqg4AASC9063.jpg]" rc="200" rm="OK" tn="" dt="bin" by="27687"/>
+<httpSample t="110" lt="74" ts="1371538450994" s="true" lb="[/n1/g10/M00/14/07/rBEQWFFngi8IAAAAAADXm8xlxxoAAD9AgNvNhEAANez238.jpg]" rc="200" rm="OK" tn="" dt="bin" by="17529"/>
+<httpSample t="111" lt="75" ts="1371538450996" s="true" lb="[/n1/3373/e6faf6fa-d91e-4383-a462-832f517437a9.jpg]" rc="200" rm="OK" tn="" dt="bin" by="19262"/>
+<httpSample t="112" lt="74" ts="1371538451000" s="true" lb="[/n1/g10/M00/02/00/rBEQWVEI-iEIAAAAAAEr9pxbiusAAAZNwDlYmUAASwO890.jpg]" rc="200" rm="OK" tn="" dt="bin" by="27392"/>
+<httpSample t="112" lt="76" ts="1371538451000" s="true" lb="[/n1/g10/M00/12/18/rBEQWFFinVoIAAAAAAD7QnWRBDkAADquQNPTVUAAPta089.jpg]" rc="200" rm="OK" tn="" dt="bin" by="21314"/>
+<httpSample t="112" lt="75" ts="1371538451001" s="true" lb="[/n1/g10/M00/11/02/rBEQWFFas_EIAAAAAAD378Yy97MAADVdAEMZU4AAPgH360.jpg]" rc="200" rm="OK" tn="" dt="bin" by="21040"/>
+<httpSample t="1844" lt="1844" ts="1371538449441" s="true" lb="[/channel/login]" rc="200" rm="OK" tn="" dt="text" by="586"/>
+<httpSample t="22" lt="22" ts="1371538451311" s="true" lb="[/channel/get_online_buddies]" rc="200" rm="OK" tn="" dt="text" by="264"/>
+<httpSample t="29" lt="27" ts="1371538451493" s="true" lb="[/weibo]" rc="200" rm="OK" tn="" dt="text" by="445"/>
+<httpSample t="69" lt="69" ts="1371538452547" s="true" lb="[/p]" rc="200" rm="OK" tn="" dt="text" by="201"/>
+<httpSample t="164" lt="164" ts="1371538452546" s="true" lb="[/p]" rc="200" rm="OK" tn="" dt="text" by="201"/>
+<httpSample t="325" lt="320" ts="1371538452965" s="true" lb="[/cdn_dianjiliu.js]" rc="200" rm="OK" tn="" dt="text" by="1940"/>
+<httpSample t="75" lt="75" ts="1371538453538" s="true" lb="[/p]" rc="200" rm="OK" tn="" dt="text" by="201"/>
+<httpSample t="895" lt="895" ts="1371538456857" s="true" lb="[/collect]" rc="200" rm="OK" tn="" dt="bin" by="147"/>
+<httpSample t="142" lt="142" ts="1371538458075" s="true" lb="[/collect]" rc="200" rm="OK" tn="" dt="bin" by="147"/>
+<httpSample t="163" lt="127" ts="1371538458450" s="true" lb="[/web/res/hover_3.png]" rc="200" rm="OK" tn="" dt="bin" by="3407"/>
+<httpSample t="48" lt="48" ts="1371538459695" s="true" lb="[/asyn/notice.php]" rc="200" rm="OK" tn="" dt="text" by="309"/>
+<httpSample t="76" lt="76" ts="1371538460451" s="true" lb="[/p]" rc="200" rm="OK" tn="" dt="text" by="201"/>
+<httpSample t="91" lt="91" ts="1371538462600" s="true" lb="[/old/publish.php]" rc="200" rm="OK" tn="" dt="text" by="743"/>
+<httpSample t="24" lt="20" ts="1371538462778" s="true" lb="[/mbloghead/c355b72af362ee184df2/50]" rc="200" rm="OK" tn="" dt="bin" by="1554"/>
+<httpSample t="46" lt="46" ts="1371538462854" s="true" lb="[/asyn/userRelation.php]" rc="200" rm="OK" tn="" dt="text" by="347"/>
+<httpSample t="1393" lt="58" ts="1371538466779" s="true" lb="[/mblogpic/351e4f0f02da8b8d4042/460]" rc="200" rm="OK" tn="" dt="bin" by="327149"/>
+<httpSample t="60033" lt="60033" ts="1371538451360" s="true" lb="[/channel/poll]" rc="200" rm="OK" tn="" dt="text" by="266"/>
+<httpSample t="294" lt="241" ts="1371538550560" s="true" lb="[/js5/s?sid=tDMjgAXfvUYGcZJOxMffebNlJiIOYWUX&amp;func=mbox:listMessages&amp;from=nav&amp;group=folder&amp;id=1&amp;action=click&amp;mboxentry=1]" rc="200" rm="OK" tn="" dt="text" by="11105"/>
+<httpSample t="107" lt="96" ts="1371538551644" s="true" lb="[/p/images/ibx/cx/360buycom.gif]" rc="200" rm="OK" tn="" dt="bin" by="2002"/>
+<httpSample t="165" lt="130" ts="1371538551622" s="true" lb="[/js5/s?sid=tDMjgAXfvUYGcZJOxMffebNlJiIOYWUX&amp;func=mbox:listMessages]" rc="200" rm="OK" tn="" dt="text" by="10546"/>
+<httpSample t="376" lt="376" ts="1371538551621" s="true" lb="[/settings/pop3notify/query.do]" rc="200" rm="OK" tn="" dt="text" by="431"/>
+<httpSample t="75" lt="75" ts="1371538552832" s="true" lb="[/js5/s?sid=tDMjgAXfvUYGcZJOxMffebNlJiIOYWUX&amp;func=mbox:readMessage&amp;read_fid=1&amp;read_cached=false&amp;read_read=false&amp;read_page=0&amp;read_index=0&amp;rkey=read_init&amp;l=read&amp;action=read]" rc="200" rm="OK" tn="" dt="text" by="1926"/>
+<httpSample t="159" lt="159" ts="1371538552840" s="true" lb="[/js5/read/readhtml.jsp]" rc="200" rm="OK" tn="" dt="text" by="3322"/>
+<httpSample t="129" lt="129" ts="1371538553127" s="true" lb="[/edm/gouwu/20130409/images/20130409_08.jpg]" rc="200" rm="OK" tn="" dt="bin" by="11929"/>
+<httpSample t="147" lt="136" ts="1371538553113" s="true" lb="[/edm/gouwu/20130614/images/20130614edm_01.jpg]" rc="200" rm="OK" tn="" dt="bin" by="18241"/>
+<httpSample t="171" lt="147" ts="1371538553102" s="true" lb="[/edm/gouwu/20130614/images/20130614edm_06.jpg]" rc="200" rm="OK" tn="" dt="bin" by="53302"/>
+<httpSample t="172" lt="145" ts="1371538553112" s="true" lb="[/edm/gouwu/20130614/images/20130614edm_04.jpg]" rc="200" rm="OK" tn="" dt="bin" by="72074"/>
+<httpSample t="159" lt="159" ts="1371538553128" s="true" lb="[/log]" rc="200" rm="OK" tn="" dt="text" by="594"/>
+<httpSample t="201" lt="158" ts="1371538553094" s="true" lb="[/edm/gouwu/20130614/images/20130614edm_03.jpg]" rc="200" rm="OK" tn="" dt="bin" by="132722"/>
+<httpSample t="198" lt="154" ts="1371538553099" s="true" lb="[/edm/gouwu/20130614/images/20130614edm_07.jpg]" rc="200" rm="OK" tn="" dt="bin" by="50892"/>
+<httpSample t="180" lt="138" ts="1371538553116" s="true" lb="[/edm/gouwu/20130614/images/20130614edm_05.jpg]" rc="200" rm="OK" tn="" dt="bin" by="73900"/>
+<httpSample t="208" lt="140" ts="1371538553114" s="true" lb="[/edm/gouwu/20130614/images/20130614edm_02.jpg]" rc="200" rm="OK" tn="" dt="bin" by="257808"/>
+<httpSample t="288" lt="288" ts="1371538553125" s="true" lb="[/conversion]" rc="200" rm="OK" tn="" dt="bin" by="788"/>
+<httpSample t="108" lt="108" ts="1371538556562" s="true" lb="[/]" rc="200" rm="OK" tn="" dt="text" by="4616"/>
+<httpSample t="51" lt="51" ts="1371538556807" s="true" lb="[/img/bdlogo.gif]" rc="200" rm="OK" tn="" dt="bin" by="1887"/>
+<httpSample t="81" lt="81" ts="1371538556818" s="true" lb="[/img/i-1.0.0.png]" rc="200" rm="OK" tn="" dt="bin" by="918"/>
+<httpSample t="103" lt="103" ts="1371538556825" s="true" lb="[/cache/global/img/gs.gif]" rc="200" rm="OK" tn="" dt="bin" by="400"/>
+<httpSample t="139" lt="138" ts="1371538556827" s="true" lb="[/r/www/cache/static/global/js/tangram-1.3.4c1.0_07038476.js]" rc="200" rm="OK" tn="" dt="text" by="8599"/>
+<httpSample t="156" lt="155" ts="1371538556832" s="true" lb="[/r/www/cache/static/user/js/u_75caac89.js]" rc="200" rm="OK" tn="" dt="text" by="4057"/>
+<httpSample t="173" lt="172" ts="1371538556817" s="true" lb="[/r/www/cache/static/global/js/home_f949edf5.js]" rc="200" rm="OK" tn="" dt="text" by="9252"/>
+<httpSample t="240" lt="240" ts="1371538557125" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="52" lt="52" ts="1371538557420" s="true" lb="[/favicon.ico]" rc="200" rm="OK" tn="" dt="bin" by="1392"/>
+<httpSample t="39" lt="39" ts="1371538557726" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="388"/>
+<httpSample t="39" lt="39" ts="1371538558046" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="402"/>
+<httpSample t="40" lt="40" ts="1371538558233" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="420"/>
+<httpSample t="39" lt="39" ts="1371538558370" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="413"/>
+<httpSample t="40" lt="40" ts="1371538558480" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="413"/>
+<httpSample t="41" lt="41" ts="1371538558804" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="405"/>
+<httpSample t="40" lt="40" ts="1371538559164" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="405"/>
+<httpSample t="40" lt="40" ts="1371538559405" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="315"/>
+<httpSample t="40" lt="40" ts="1371538560870" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="359"/>
+<httpSample t="99" lt="99" ts="1371538576980" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="393"/>
+<httpSample t="52" lt="52" ts="1371538577310" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="299"/>
+<httpSample t="49" lt="49" ts="1371538577572" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="300"/>
+<httpSample t="51" lt="51" ts="1371538577681" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="301"/>
+<httpSample t="50" lt="50" ts="1371538578687" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="300"/>
+<httpSample t="49" lt="49" ts="1371538579412" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="300"/>
+<httpSample t="50" lt="50" ts="1371538579771" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="303"/>
+<httpSample t="51" lt="51" ts="1371538580022" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="304"/>
+<httpSample t="51" lt="51" ts="1371538580439" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="305"/>
+<httpSample t="51" lt="51" ts="1371538580656" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="307"/>
+<httpSample t="582" lt="581" ts="1371538580856" s="true" lb="[/s]" rc="200" rm="OK" tn="" dt="text" by="14144"/>
+<httpSample t="52" lt="52" ts="1371538581745" s="true" lb="[/img/baidu_jgylogo3.gif]" rc="200" rm="OK" tn="" dt="bin" by="1016"/>
+<httpSample t="181" lt="124" ts="1371538581747" s="true" lb="[/r/www/cache/static/global/js/common_7fd3f7db.js]" rc="200" rm="OK" tn="" dt="text" by="16076"/>
+<httpSample t="245" lt="244" ts="1371538581750" s="true" lb="[/r/www/cache/static/global/img/bg_ba15d188.png]" rc="200" rm="OK" tn="" dt="bin" by="5805"/>
+<httpSample t="124" lt="66" ts="1371538582001" s="true" lb="[/r/www/cache/static/global/js/logic_a3194f92.js]" rc="200" rm="OK" tn="" dt="text" by="18442"/>
+<httpSample t="49" lt="49" ts="1371538582177" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="52" lt="52" ts="1371538582174" s="true" lb="[/js/s/tiphint.js]" rc="200" rm="OK" tn="" dt="text" by="1844"/>
+<httpSample t="514" lt="514" ts="1371538582178" s="true" lb="[/getsharenum]" rc="200" rm="OK" tn="" dt="text" by="456"/>
+<httpSample t="472" lt="472" ts="1371538582270" s="true" lb="[/c.gif]" rc="204" rm="No Content" tn="" dt="text" by="112"/>
+<httpSample t="475" lt="475" ts="1371538582272" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="308"/>
+<httpSample t="1199" lt="1199" ts="1371539354337" s="true" lb="[/safebrowsing/downloads?client=navclient-auto-ffox&amp;appver=20.0&amp;pver=2.2&amp;wrkey=AKEgNivd-8KVx5VoTfs4ZVx1fB6kAc4o0SdwMYZD1gG0KaWzP5Z_oBfa3sI6KpC43Kod7Y5WqrXwNJqIbeV94aC3Sg4XOq4pYQ==]" rc="200" rm="OK" tn="" dt="text" by="922"/>
+<httpSample t="768" lt="768" ts="1371539355556" s="true" lb="[/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAEY044HINiOByoFVccBAA8yBVPHAQAD]" rc="200" rm="OK" tn="" dt="text" by="2222"/>
+<httpSample t="846" lt="377" ts="1371539356346" s="true" lb="[/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAYvaIHINCiByoHQdEBAP__ADIFPdEBAA8]" rc="200" rm="OK" tn="" dt="text" by="3355"/>
+<httpSample t="377" lt="377" ts="1371539357220" s="true" lb="[/safebrowsing/rd/ChFnb29nLXBoaXNoLXNoYXZhchABGPHDCCDAxAgqDf0hAgD__________w8yBvEhAgD_Dw]" rc="200" rm="OK" tn="" dt="text" by="834"/>
+<httpSample t="385" lt="385" ts="1371539357620" s="true" lb="[/safebrowsing/rd/ChFnb29nLXBoaXNoLXNoYXZhchAAGNPaESDc2hEqBVxtBAABMgZTbQQA_wE]" rc="200" rm="OK" tn="" dt="text" by="3120"/>
+<httpSample t="1199" lt="1199" ts="1371541105192" s="true" lb="[/safebrowsing/downloads?client=navclient-auto-ffox&amp;appver=20.0&amp;pver=2.2&amp;wrkey=AKEgNivd-8KVx5VoTfs4ZVx1fB6kAc4o0SdwMYZD1gG0KaWzP5Z_oBfa3sI6KpC43Kod7Y5WqrXwNJqIbeV94aC3Sg4XOq4pYQ==]" rc="200" rm="OK" tn="" dt="text" by="1033"/>
+<httpSample t="764" lt="764" ts="1371541106415" s="true" lb="[/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAEY044HINiOByoFVscBAAcyBVPHAQAH]" rc="200" rm="OK" tn="" dt="text" by="3557"/>
+<httpSample t="379" lt="379" ts="1371541107206" s="true" lb="[/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAYvaIHINCiByoGQtEBAP9_MgU90QEAHw]" rc="200" rm="OK" tn="" dt="text" by="4149"/>
+<httpSample t="378" lt="378" ts="1371541107603" s="true" lb="[/safebrowsing/rd/ChFnb29nLXBoaXNoLXNoYXZhchABGPHDCCDAxAgqDf8hAgD__________wMyBvEhAgD_Pw]" rc="200" rm="OK" tn="" dt="text" by="939"/>
+<httpSample t="380" lt="380" ts="1371541108000" s="true" lb="[/safebrowsing/rd/ChFnb29nLXBoaXNoLXNoYXZhchAAGNPaESDc2hEyBlNtBAD_Aw]" rc="200" rm="OK" tn="" dt="text" by="3348"/>
+<httpSample t="379" lt="379" ts="1371541108397" s="true" lb="[/safebrowsing/rd/ChFnb29nLXBoaXNoLXNoYXZhchAAGN3aESDw2hEqB15tBAD__wcyBV1tBAAB]" rc="200" rm="OK" tn="" dt="text" by="602"/>
+<httpSample t="1238" lt="1238" ts="1371542828954" s="true" lb="[/safebrowsing/downloads?client=navclient-auto-ffox&amp;appver=20.0&amp;pver=2.2&amp;wrkey=AKEgNivd-8KVx5VoTfs4ZVx1fB6kAc4o0SdwMYZD1gG0KaWzP5Z_oBfa3sI6KpC43Kod7Y5WqrXwNJqIbeV94aC3Sg4XOq4pYQ==]" rc="200" rm="OK" tn="" dt="text" by="906"/>
+<httpSample t="110" lt="96" ts="1371542830215" s="true" lb="[/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAEY044HINiOByoFV8cBAAMyBVPHAQAP]" rc="200" rm="OK" tn="" dt="text" by="4624"/>
+<httpSample t="75" lt="60" ts="1371542830345" s="true" lb="[/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAYvaIHINCiByoGRNEBAP8fMgU90QEAfw]" rc="200" rm="OK" tn="" dt="text" by="4997"/>
+<httpSample t="61" lt="61" ts="1371542830443" s="true" lb="[/safebrowsing/rd/ChFnb29nLXBoaXNoLXNoYXZhchABGPHDCCDAxAgqDQEiAgD__________wAyB_EhAgD__wA]" rc="200" rm="OK" tn="" dt="text" by="1014"/>
+<httpSample t="65" lt="62" ts="1371542830524" s="true" lb="[/safebrowsing/rd/ChFnb29nLXBoaXNoLXNoYXZhchAAGN3aESDw2hEqB2FtBAD__wAyBV1tBAAP]" rc="200" rm="OK" tn="" dt="text" by="2209"/>
+<httpSample t="1087" lt="1087" ts="1371544669684" s="true" lb="[/safebrowsing/downloads?client=navclient-auto-ffox&amp;appver=20.0&amp;pver=2.2&amp;wrkey=AKEgNivd-8KVx5VoTfs4ZVx1fB6kAc4o0SdwMYZD1gG0KaWzP5Z_oBfa3sI6KpC43Kod7Y5WqrXwNJqIbeV94aC3Sg4XOq4pYQ==]" rc="200" rm="OK" tn="" dt="text" by="929"/>
+<httpSample t="1068" lt="1068" ts="1371544670789" s="true" lb="[/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAEY044HINiOByoFWMcBAAEyBVPHAQAf]" rc="200" rm="OK" tn="" dt="text" by="5227"/>
+<httpSample t="537" lt="537" ts="1371544671879" s="true" lb="[/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAYw6IHIMiiByoFRdEBAA8yBUPRAQAD]" rc="200" rm="OK" tn="" dt="text" by="1655"/>
+<httpSample t="539" lt="539" ts="1371544672433" s="true" lb="[/safebrowsing/rd/ChFnb29nLXBoaXNoLXNoYXZhchABGPHDCCDAxAgqDAQiAgD_________HzIH8SECAP__Bw]" rc="200" rm="OK" tn="" dt="text" by="1126"/>
+<httpSample t="539" lt="539" ts="1371544673022" s="true" lb="[/safebrowsing/rd/ChFnb29nLXBoaXNoLXNoYXZhchAAGN3aESDw2hEqBmRtBAD_HzIFXW0EAH8]" rc="200" rm="OK" tn="" dt="text" by="3406"/>
+<httpSample t="185" lt="185" ts="1371545784273" s="true" lb="[/]" rc="302" rm="Found" tn="" dt="text" by="230"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="[Sample failed]" rc="" rm="Unable to read keystore&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" by="0"/>
+<httpSample t="594" lt="0" ts="1371546514855" s="false" lb="[/safebrowsing/downloads?client=navclient-auto-ffox&amp;appver=20.0&amp;pver=2.2&amp;wrkey=AKEgNivd-8KVx5VoTfs4ZVx1fB6kAc4o0SdwMYZD1gG0KaWzP5Z_oBfa3sI6KpC43Kod7Y5WqrXwNJqIbeV94aC3Sg4XOq4pYQ==]" rc="Non HTTP response code: java.net.SocketException" rm="Non HTTP response message: Connection reset" tn="" dt="text" by="2394"/>
+<httpSample t="271" lt="271" ts="1371547278361" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="408"/>
+<httpSample t="152" lt="152" ts="1371547278523" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="424"/>
+<httpSample t="62" lt="62" ts="1371547278867" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="404"/>
+<httpSample t="62" lt="62" ts="1371547279518" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="412"/>
+<httpSample t="62" lt="62" ts="1371547279951" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="408"/>
+<httpSample t="62" lt="62" ts="1371547282458" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="407"/>
+<httpSample t="62" lt="62" ts="1371547282644" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="304"/>
+<httpSample t="62" lt="62" ts="1371547282769" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="295"/>
+<httpSample t="61" lt="61" ts="1371547282889" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="296"/>
+<httpSample t="64" lt="64" ts="1371547283056" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="298"/>
+<httpSample t="61" lt="61" ts="1371547283203" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="299"/>
+<httpSample t="654" lt="605" ts="1371547283402" s="true" lb="[/s]" rc="200" rm="OK" tn="" dt="text" by="15195"/>
+<httpSample t="60" lt="60" ts="1371547284510" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="423" lt="423" ts="1371547284589" s="true" lb="[/c.gif]" rc="204" rm="No Content" tn="" dt="text" by="112"/>
+<httpSample t="423" lt="423" ts="1371547284591" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="307"/>
+<httpSample t="624" lt="488" ts="1371547284509" s="true" lb="[/getsharenum]" rc="200" rm="OK" tn="" dt="text" by="441"/>
+<httpSample t="63" lt="63" ts="1371547287965" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="300"/>
+<httpSample t="62" lt="62" ts="1371547288227" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="301"/>
+<httpSample t="62" lt="62" ts="1371547288600" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="305"/>
+<httpSample t="62" lt="62" ts="1371547288828" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="307"/>
+<httpSample t="611" lt="610" ts="1371547288915" s="true" lb="[/s]" rc="200" rm="OK" tn="" dt="text" by="15441"/>
+<httpSample t="61" lt="61" ts="1371547289850" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="330" lt="191" ts="1371547289856" s="true" lb="[/getsharenum]" rc="200" rm="OK" tn="" dt="text" by="441"/>
+<httpSample t="289" lt="289" ts="1371547289918" s="true" lb="[/c.gif]" rc="204" rm="No Content" tn="" dt="text" by="112"/>
+<httpSample t="292" lt="292" ts="1371547289918" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="310"/>
+<httpSample t="101" lt="101" ts="1371547300192" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="303"/>
+<httpSample t="53" lt="52" ts="1371547301994" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="302"/>
+<httpSample t="52" lt="52" ts="1371547302175" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="301"/>
+<httpSample t="52" lt="52" ts="1371547302376" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="300"/>
+<httpSample t="51" lt="51" ts="1371547302545" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="299"/>
+<httpSample t="51" lt="51" ts="1371547302736" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="314"/>
+<httpSample t="51" lt="51" ts="1371547302929" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="442"/>
+<httpSample t="52" lt="52" ts="1371547303771" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="317"/>
+<httpSample t="50" lt="50" ts="1371547304006" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="300"/>
+<httpSample t="50" lt="50" ts="1371547304183" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="301"/>
+<httpSample t="49" lt="49" ts="1371547304307" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="302"/>
+<httpSample t="50" lt="50" ts="1371547304574" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="304"/>
+<httpSample t="51" lt="51" ts="1371547304942" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="303"/>
+<httpSample t="50" lt="50" ts="1371547305681" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="442"/>
+<httpSample t="51" lt="51" ts="1371547307475" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="442"/>
+<httpSample t="52" lt="52" ts="1371547308014" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="297"/>
+<httpSample t="52" lt="52" ts="1371547308218" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="297"/>
+<httpSample t="50" lt="50" ts="1371547308914" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="300"/>
+<httpSample t="50" lt="50" ts="1371547309073" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="300"/>
+<httpSample t="708" lt="647" ts="1371547309915" s="true" lb="[/s]" rc="200" rm="OK" tn="" dt="text" by="15999"/>
+<httpSample t="51" lt="51" ts="1371547311018" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="168" lt="168" ts="1371547310973" s="true" lb="[/r/www/cache/global/img/score-1.1.png]" rc="200" rm="OK" tn="" dt="bin" by="820"/>
+<httpSample t="176" lt="175" ts="1371547310966" s="true" lb="[/r/www/cache/global/img/bg-1.0.16.png]" rc="200" rm="OK" tn="" dt="bin" by="5763"/>
+<httpSample t="143" lt="143" ts="1371547311021" s="true" lb="[/r/www/cache/static/certification/js/certification_a81d8613.js]" rc="200" rm="OK" tn="" dt="text" by="1772"/>
+<httpSample t="49" lt="49" ts="1371547311183" s="true" lb="[/r/www/cache/global/img/commonHintIcon-1.1.png]" rc="200" rm="OK" tn="" dt="bin" by="705"/>
+<httpSample t="281" lt="281" ts="1371547311103" s="true" lb="[/c.gif]" rc="204" rm="No Content" tn="" dt="text" by="112"/>
+<httpSample t="282" lt="282" ts="1371547311105" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="307"/>
+<httpSample t="459" lt="323" ts="1371547311021" s="true" lb="[/getsharenum]" rc="200" rm="OK" tn="" dt="text" by="463"/>
+<httpSample t="808" lt="759" ts="1371547331199" s="true" lb="[/s]" rc="200" rm="OK" tn="" dt="text" by="16490"/>
+<httpSample t="266" lt="227" ts="1371547332891" s="true" lb="[/static/flash/fmp.swf]" rc="200" rm="OK" tn="" dt="text" by="4635"/>
+<httpSample t="267" lt="267" ts="1371547332921" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="282" lt="282" ts="1371547333005" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="310"/>
+<httpSample t="341" lt="341" ts="1371547333004" s="true" lb="[/c.gif]" rc="204" rm="No Content" tn="" dt="text" by="112"/>
+<httpSample t="445" lt="445" ts="1371547332922" s="true" lb="[/getsharenum]" rc="200" rm="OK" tn="" dt="text" by="430"/>
+<httpSample t="98" lt="98" ts="1371547339083" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="393"/>
+<httpSample t="52" lt="52" ts="1371547339535" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="295"/>
+<httpSample t="50" lt="50" ts="1371547339713" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="295"/>
+<httpSample t="50" lt="50" ts="1371547339819" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="297"/>
+<httpSample t="51" lt="51" ts="1371547340142" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="397"/>
+<httpSample t="52" lt="52" ts="1371547340311" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="396"/>
+<httpSample t="51" lt="51" ts="1371547340776" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="298"/>
+<httpSample t="51" lt="51" ts="1371547341834" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="303"/>
+<httpSample t="669" lt="667" ts="1371547341911" s="true" lb="[/s]" rc="200" rm="OK" tn="" dt="text" by="14302"/>
+<httpSample t="52" lt="52" ts="1371547342948" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="281" lt="281" ts="1371547343024" s="true" lb="[/c.gif]" rc="204" rm="No Content" tn="" dt="text" by="112"/>
+<httpSample t="285" lt="285" ts="1371547343023" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="310"/>
+<httpSample t="459" lt="323" ts="1371547342948" s="true" lb="[/getsharenum]" rc="200" rm="OK" tn="" dt="text" by="464"/>
+<httpSample t="120" lt="120" ts="1371547348421" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="1275" lt="1275" ts="1371547348500" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="310"/>
+<httpSample t="501" lt="462" ts="1371547353198" s="true" lb="[/s]" rc="200" rm="OK" tn="" dt="text" by="31786"/>
+<httpSample t="122" lt="121" ts="1371547353979" s="true" lb="[/adcoup-mat/8918c53e-f69f-464a-8bef-213a3b2dba86.js]" rc="200" rm="OK" tn="" dt="text" by="14629"/>
+<httpSample t="25" lt="25" ts="1371547354331" s="true" lb="[/media/id=rjb4PHbYnWn&amp;gp=10&amp;time=nHnYPW61PWfzns.png]" rc="200" rm="OK" tn="" dt="bin" by="938"/>
+<httpSample t="115" lt="115" ts="1371547354362" s="true" lb="[/resource/fFhOBWAIBUjenFvkrUhaZUjMBQXRfFSvrUCIBUsIBWCaZIV.png]" rc="200" rm="OK" tn="" dt="bin" by="1629"/>
+<httpSample t="100" lt="100" ts="1371547354410" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="288" lt="286" ts="1371547354360" s="true" lb="[/adtest/27279a15e3556bee5c47d9fd31edb121.swf]" rc="200" rm="OK" tn="" dt="text" by="31403"/>
+<httpSample t="291" lt="291" ts="1371547354467" s="true" lb="[/c.gif]" rc="204" rm="No Content" tn="" dt="text" by="112"/>
+<httpSample t="293" lt="293" ts="1371547354466" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="307"/>
+<httpSample t="116" lt="115" ts="1371547354921" s="true" lb="[/adcoup-mat/42198d5f-b5cf-48d6-9632-3f781a995a6c.jpg]" rc="200" rm="OK" tn="" dt="bin" by="19820"/>
+<httpSample t="834" lt="287" ts="1371547354405" s="true" lb="[/getsharenum]" rc="200" rm="OK" tn="" dt="text" by="388"/>
+<httpSample t="468" lt="70" ts="1371547354919" s="true" lb="[/adcoup-mat/11a8a899-ab73-4229-b145-264badc2d693.flv]" rc="200" rm="OK" tn="" dt="text" by="580463"/>
+<httpSample t="148" lt="148" ts="1371547355265" s="true" lb="[/r/www/cache/like/img/likeicon-1.0.png]" rc="200" rm="OK" tn="" dt="bin" by="771"/>
+<httpSample t="1423" lt="1264" ts="1371547354335" s="true" lb="[/xianzhi/wholeIconNew.gif]" rc="200" rm="OK" tn="" dt="bin" by="4392"/>
+<httpSample t="49" lt="49" ts="1371547355919" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="299"/>
+<httpSample t="49" lt="49" ts="1371547356294" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="301"/>
+<httpSample t="51" lt="51" ts="1371547356502" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="301"/>
+<httpSample t="49" lt="49" ts="1371547356688" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="301"/>
+<httpSample t="50" lt="50" ts="1371547356982" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="303"/>
+<httpSample t="494" lt="492" ts="1371547357174" s="true" lb="[/s]" rc="200" rm="OK" tn="" dt="text" by="16615"/>
+<httpSample t="40" lt="40" ts="1371547358160" s="true" lb="[/aladdin/img/video/nav.gif]" rc="200" rm="OK" tn="" dt="bin" by="493"/>
+<httpSample t="51" lt="51" ts="1371547358212" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="316" lt="181" ts="1371547358211" s="true" lb="[/getsharenum]" rc="200" rm="OK" tn="" dt="text" by="439"/>
+<httpSample t="293" lt="293" ts="1371547358305" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="308"/>
+<httpSample t="304" lt="304" ts="1371547358311" s="true" lb="[/c.gif]" rc="204" rm="No Content" tn="" dt="text" by="112"/>
+<httpSample t="297" lt="297" ts="1371547368773" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="299"/>
+<httpSample t="50" lt="50" ts="1371547369529" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="302"/>
+<httpSample t="51" lt="51" ts="1371547370239" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="303"/>
+<httpSample t="793" lt="746" ts="1371547370274" s="true" lb="[/s]" rc="200" rm="OK" tn="" dt="text" by="17085"/>
+<httpSample t="49" lt="49" ts="1371547371422" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="455" lt="455" ts="1371547371422" s="true" lb="[/getsharenum]" rc="200" rm="OK" tn="" dt="text" by="432"/>
+<httpSample t="421" lt="421" ts="1371547371498" s="true" lb="[/c.gif]" rc="204" rm="No Content" tn="" dt="text" by="112"/>
+<httpSample t="422" lt="422" ts="1371547371499" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="308"/>
+<httpSample t="440" lt="403" ts="1371547387050" s="true" lb="[/s]" rc="200" rm="OK" tn="" dt="text" by="15633"/>
+<httpSample t="100" lt="100" ts="1371547387885" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="281" lt="281" ts="1371547387975" s="true" lb="[/c.gif]" rc="204" rm="No Content" tn="" dt="text" by="112"/>
+<httpSample t="281" lt="281" ts="1371547387976" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="310"/>
+<httpSample t="461" lt="325" ts="1371547387886" s="true" lb="[/getsharenum]" rc="200" rm="OK" tn="" dt="text" by="413"/>
+<httpSample t="49" lt="49" ts="1371547389974" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="287" lt="287" ts="1371547390066" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="310"/>
+<httpSample t="157" lt="156" ts="1371547391885" s="true" lb="[/s]" rc="200" rm="OK" tn="" dt="text" by="15505"/>
+<httpSample t="49" lt="49" ts="1371547392275" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="285" lt="149" ts="1371547392274" s="true" lb="[/getsharenum]" rc="200" rm="OK" tn="" dt="text" by="413"/>
+<httpSample t="293" lt="293" ts="1371547392359" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="310"/>
+<httpSample t="294" lt="294" ts="1371547392361" s="true" lb="[/c.gif]" rc="204" rm="No Content" tn="" dt="text" by="112"/>
+<httpSample t="736" lt="689" ts="1371547407074" s="true" lb="[/s]" rc="200" rm="OK" tn="" dt="text" by="14748"/>
+<httpSample t="112" lt="112" ts="1371547408180" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="286" lt="286" ts="1371547408260" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="310"/>
+<httpSample t="504" lt="504" ts="1371547408180" s="true" lb="[/getsharenum]" rc="200" rm="OK" tn="" dt="text" by="459"/>
+<httpSample t="438" lt="438" ts="1371547408256" s="true" lb="[/c.gif]" rc="204" rm="No Content" tn="" dt="text" by="112"/>
+<httpSample t="43" lt="43" ts="1371547413072" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="299"/>
+<httpSample t="41" lt="41" ts="1371547413279" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="302"/>
+<httpSample t="675" lt="638" ts="1371547413645" s="true" lb="[/s]" rc="200" rm="OK" tn="" dt="text" by="16851"/>
+<httpSample t="44" lt="44" ts="1371547414600" s="true" lb="[/su]" rc="200" rm="OK" tn="" dt="text" by="259"/>
+<httpSample t="280" lt="280" ts="1371547414675" s="true" lb="[/c.gif]" rc="204" rm="No Content" tn="" dt="text" by="112"/>
+<httpSample t="282" lt="282" ts="1371547414676" s="true" lb="[/w.gif]" rc="200" rm="OK" tn="" dt="bin" by="310"/>
+<httpSample t="450" lt="314" ts="1371547414602" s="true" lb="[/getsharenum]" rc="200" rm="OK" tn="" dt="text" by="386"/>
