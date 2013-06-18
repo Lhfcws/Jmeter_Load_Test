@@ -21,7 +21,7 @@ refer to:
 <table>
 <tr><td>Successful cases: </td>  <td> 140</td></tr>
 <tr><td>Failure cases: </td>  <td> 40</td></tr>
-<tr><td>Average performance (ms): </td><td>|</td> <td> 93466</td></tr>
+<tr><td>Average performance (ms): </td> <td> 93466</td></tr>
 <tr><td>Average performance(success) (ms): </td>  <td> 23975</td></tr>
 <tr><td>Average bytes: </td>  <td> 11543</td></tr>
 <tr><td>Average bytes(success): </td>  <td> 13785</td></tr>
